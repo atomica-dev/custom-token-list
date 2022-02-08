@@ -1,0 +1,140 @@
+{
+  "name": "Atomica Custom Token List",
+  "logoURI": "https://atomica.org/favicon_32x32.png",
+  "keywords": [
+    "defi",
+    "rinkeby"
+  ],
+  "timestamp": "2022-02-08T00:00:00.000+00:00",
+  "tokens": [
+    {
+      "address": "0x94E1fcC8510C9C68f3A63EE3Ea82593B8a2C46C6",
+      "chainId": 4,
+      "decimals": 18,
+      "name": "Curve DAO Token",
+      "symbol": "CRV"
+    },
+    {
+      "address": "0x32319aEfe1A30Ef2a5d1368221a1535454418D7C",
+      "chainId": 4,
+      "decimals": 18,
+      "name": "Frax",
+      "symbol": "FRAX"
+    },
+    {
+      "address": "0xFBa9B548242627c1D025a3f4B799a6Bd19Efc446",
+      "chainId": 4,
+      "decimals": 18,
+      "name": "Magic Internet Money",
+      "symbol": "MIM"
+    },
+    {
+      "address": "0xf18754147Cf025c35075c3BD108A3D90914d83e2",
+      "chainId": 4,
+      "decimals": 18,
+      "name": "TerraUSD",
+      "symbol": "UST"
+    },
+    {
+      "address": "0x75885344541109D2ab5440c3320954dB451d3c92",
+      "chainId": 4,
+      "decimals": 18,
+      "name": "Spell Token",
+      "symbol": "SPELL"
+    },
+    {
+      "address": "0x33c864fE18E21244613773C4443AAb316a6B8b03",
+      "chainId": 4,
+      "decimals": 18,
+      "name": "Anchor Protocol",
+      "symbol": "ANC"
+    },
+    {
+      "address": "0xdAA0926229B154631442184F8eA7805E028623a7",
+      "chainId": 4,
+      "decimals": 18,
+      "name": "Astroport",
+      "symbol": "ASTRO"
+    },
+    {
+      "address": "0xfC0eBE3660a17606f0282E3E7D16D1518cBfbDbe",
+      "chainId": 4,
+      "decimals": 18,
+      "name": "Solend",
+      "symbol": "SLND"
+    },
+    {
+      "address": "0x2cCCeD3E182A1476F692AdE49AAbEcB3364365B9",
+      "chainId": 4,
+      "decimals": 18,
+      "name": "Tulip Protocol",
+      "symbol": "TULIP"
+    },
+    {
+      "address": "0x2CB50F708cb0425284287abFF44768A23E5199F1",
+      "chainId": 4,
+      "decimals": 18,
+      "name": "BENQI",
+      "symbol": "QI"
+    },
+    {
+      "address": "0x6eCBA11Bd7C52Bf894E99C1c123FD2E79206eAe7",
+      "chainId": 4,
+      "decimals": 18,
+      "name": "yearn.finance",
+      "symbol": "YFI"
+    },
+    {
+      "address": "0xf194F50D1C7ef606e670D3Fc392CB325b8D031a2",
+      "chainId": 4,
+      "decimals": 18,
+      "name": "Scream",
+      "symbol": "SCREAM"
+    },
+    {
+      "address": "0x3573E6CD50A6e09013534C327b77fbbe8a6502c8",
+      "chainId": 4,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17569/small/joe_200x200.png",
+      "name": "JOE",
+      "symbol": "JOE"
+    },
+    {
+      "address": "0x701a5d4B2777ada0F8136d476F9AFD4BbE23de46",
+      "chainId": 4,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png",
+      "name": "Avalanche",
+      "symbol": "AVAX"
+    },
+    {
+      "address": "0x7F283f35448AD4A01DdA8911b872C5cB62Da1E9F",
+      "chainId": 4,
+      "decimals": 18,
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+      "name": "Uniswap",
+      "symbol": "UNI"
+    },
+    {
+      "address": "0x56cfDee16c1e77A670fC8d6f1d12361Cd91aE919",
+      "chainId": 4,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png",
+      "name": "Compound",
+      "symbol": "COMP"
+    },
+    {
+      "address": "0xd0dab4e640d95e9e8a47545598c33e31bdb53c7c",
+      "chainId": 4,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png",
+      "name": "Gnosis",
+      "symbol": "GNO"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
