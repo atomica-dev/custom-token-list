@@ -61,6 +61,7 @@
       "chainId": 4,
       "decimals": 18,
       "name": "Solend",
+      "logoURI": "https://assets.coingecko.com/coins/images/19573/small/i6AMOwun_400x400.jpg",
       "symbol": "SLND"
     },
     {
@@ -89,6 +90,7 @@
       "chainId": 4,
       "decimals": 18,
       "name": "Scream",
+      "logoURI": "https://assets.coingecko.com/coins/images/17509/small/output-onlinepngtools_%286%29.png",
       "symbol": "SCREAM"
     },
     {
