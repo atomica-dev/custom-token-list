@@ -69,6 +69,7 @@
       "chainId": 4,
       "decimals": 18,
       "name": "Tulip Protocol",
+      "logoURI": "https://assets.coingecko.com/coins/images/15764/small/TqrUdBG.png",
       "symbol": "TULIP"
     },
     {
@@ -76,6 +77,7 @@
       "chainId": 4,
       "decimals": 18,
       "name": "BENQI",
+      "logoURI": "https://assets.coingecko.com/coins/images/16362/small/p0f8Wjvn_400x400.jpg",
       "symbol": "QI"
     },
     {
