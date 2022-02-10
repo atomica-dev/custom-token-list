@@ -54,7 +54,7 @@
     {
       "address": "0xdAA0926229B154631442184F8eA7805E028623a7",
       "chainId": 4,
-      "decimals": 18,
+      "decimals": 4,
       "name": "Astroport",
       "logoURI": "https://assets.coingecko.com/coins/images/20804/small/Astro_coin_icon.png",
       "symbol": "ASTRO"
@@ -62,7 +62,7 @@
     {
       "address": "0xfC0eBE3660a17606f0282E3E7D16D1518cBfbDbe",
       "chainId": 4,
-      "decimals": 18,
+      "decimals": 6,
       "name": "Solend",
       "logoURI": "https://assets.coingecko.com/coins/images/19573/small/i6AMOwun_400x400.jpg",
       "symbol": "SLND"
@@ -70,7 +70,7 @@
     {
       "address": "0x2cCCeD3E182A1476F692AdE49AAbEcB3364365B9",
       "chainId": 4,
-      "decimals": 18,
+      "decimals": 6,
       "name": "Tulip Protocol",
       "logoURI": "https://assets.coingecko.com/coins/images/15764/small/TqrUdBG.png",
       "symbol": "TULIP"
@@ -109,7 +109,7 @@
     {
       "address": "0x701a5d4B2777ada0F8136d476F9AFD4BbE23de46",
       "chainId": 4,
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png",
       "name": "Avalanche",
       "symbol": "AVAX"
