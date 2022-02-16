@@ -137,6 +137,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png",
       "name": "Gnosis",
       "symbol": "GNO"
+    },
+    {
+      "address": "0x8ea89Bf5191280F44AB740810668a70C3Dd9709E",
+      "chainId": 4,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22617/small/astr.png",
+      "name": "Astar",
+      "symbol": "ASTR"
     }
   ],
   "version": {
