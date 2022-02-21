@@ -145,6 +145,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/22617/small/astr.png",
       "name": "Astar",
       "symbol": "ASTR"
+    },
+    {
+      "address": "0xc7ad46e0b8a400bb3c915120d284aafba8fc4735",
+      "chainId": 4,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png",
+      "name": "Dai",
+      "symbol": "DAI"
     }
   ],
   "version": {
