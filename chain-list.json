@@ -1,44 +1,45 @@
 {
-  list: [
+  "list": [
     {
-      chainId: 4,
-      name: "Rinkeby",
-      logo: "https://etherscan.io/images/main/empty-token.png",
+      "chainId": 4,
+      "name": "Rinkeby",
+      "logo": "https://etherscan.io/images/main/empty-token.png"
     },
     {
-      chainId: 4,
-      name: "Ethereum",
-      logo: "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+      "chainId": 4,
+      "name": "Ethereum",
+      "logo": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
     },
     {
-      chainId: 56,
-      name: "BSC",
-      logo: "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png",
+      "chainId": 56,
+      "name": "BSC",
+      "logo": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png"
     },
     {
-      chainId: 43114,
-      name: "Avalanche",
-      logo: "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png",
+      "chainId": 43114,
+      "name": "Avalanche",
+      "logo": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png"
     },
     {
-      chainId: 137,
-      name: "Polygon",
-      logo: "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png",
+      "chainId": 137,
+      "name": "Polygon",
+      "logo": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png"
     },
     {
-      chainId: 250,
-      name: "Fantom",
-      logo: "https://assets.coingecko.com/coins/images/4001/small/Fantom.png",
+      "chainId": 250,
+      "name": "Fantom",
+      "logo": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png"
     },
     {
-      chainId: 592,
-      name: "Astar",
-      logo: "https://assets.coingecko.com/coins/images/22617/small/astr.png",
-    },
+      "chainId": 592,
+      "name": "Astar",
+      "logo": "https://assets.coingecko.com/coins/images/22617/small/astr.png"
+    }
   ],
-  default: {
-    chainId: 0,
-    name: "",
-    logo: "https://etherscan.io/images/main/empty-token.png",
-  },
+
+  "default": {
+    "chainId": 0,
+    "name": "",
+    "logo": "https://etherscan.io/images/main/empty-token.png"
+  }
 }
