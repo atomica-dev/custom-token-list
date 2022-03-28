@@ -153,6 +153,46 @@
       "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png",
       "name": "Dai",
       "symbol": "DAI"
+    },
+    {
+      "address": "0x3feD38b56631e4Dc2DAc7653f5789b6dDAB2832D",
+      "chainId": 42,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    {
+      "address": "0x986E012A712769b5776709FD4b25a47124866999",
+      "chainId": 42,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png",
+      "name": "Dai",
+      "symbol": "DAI"
+    },
+    {
+      "address": "0x398fD211409B6630b37E5938DE801E61862e63fa",
+      "chainId": 42,
+      "decimals": 18,
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+      "name": "Uniswap",
+      "symbol": "UNI"
+    },
+    {
+      "address": "0xE3d2A24832717afB08A89fA2c2dfa07B067C91eF",
+      "chainId": 42,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png",
+      "name": "Compound",
+      "symbol": "COMP"
+    },
+    {
+      "address": "0x70e649c4c7FF221046d0476D62B01916757ABc60",
+      "chainId": 42,
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC"
     }
   ],
   "version": {
