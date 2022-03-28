@@ -8,10 +8,10 @@
     {
       "chainId": 42,
       "name": "Kovan",
-      "logo": "https://etherscan.io/images/main/empty-token.png"
+      "logo": "https://etherscan.io/images/main/empty-token.png",
     },
     {
-      "chainId": 4,
+      "chainId": 1,
       "name": "Ethereum",
       "logo": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
     },
