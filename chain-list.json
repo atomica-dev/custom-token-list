@@ -8,7 +8,7 @@
     {
       "chainId": 42,
       "name": "Kovan",
-      "logo": "https://etherscan.io/images/main/empty-token.png",
+      "logo": "https://etherscan.io/images/main/empty-token.png"
     },
     {
       "chainId": 1,
