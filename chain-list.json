@@ -3,41 +3,49 @@
     {
       "chainId": 4,
       "name": "Rinkeby",
+      "explorerUrl": "https://rinkeby.etherscan.io/",
       "logo": "https://etherscan.io/images/main/empty-token.png"
     },
     {
       "chainId": 42,
       "name": "Kovan",
+      "explorerUrl": "https://kovan.etherscan.io/",
       "logo": "https://etherscan.io/images/main/empty-token.png"
     },
     {
       "chainId": 1,
       "name": "Ethereum",
+      "explorerUrl": "https://etherscan.io/",
       "logo": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
     },
     {
       "chainId": 56,
       "name": "BSC",
+      "explorerUrl": "https://bscscan.com/",
       "logo": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png"
     },
     {
       "chainId": 43114,
       "name": "Avalanche",
+      "explorerUrl": "https://snowtrace.io/",
       "logo": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png"
     },
     {
       "chainId": 137,
       "name": "Polygon",
+      "explorerUrl": "https://polygonscan.com/",
       "logo": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png"
     },
     {
       "chainId": 250,
       "name": "Fantom",
+      "explorerUrl": "https://ftmscan.com/",
       "logo": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png"
     },
     {
       "chainId": 592,
       "name": "Astar",
+      "explorerUrl": "https://blockscout.com/astar/",
       "logo": "https://assets.coingecko.com/coins/images/22617/small/astr.png"
     }
   ],
