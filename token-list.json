@@ -40307,6 +40307,14 @@
       "symbol": "USDC"
     },
     {
+      "address": "0x42Dc35bEF6271c3e3bfCBcD4101DdE8256B956e1",
+      "chainId": 42,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    {
       "address": "0x986E012A712769b5776709FD4b25a47124866999",
       "chainId": 42,
       "decimals": 18,
