@@ -40341,7 +40341,7 @@
     {
       "address": "0x70e649c4c7FF221046d0476D62B01916757ABc60",
       "chainId": 42,
-      "decimals": 9,
+      "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png",
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC"
