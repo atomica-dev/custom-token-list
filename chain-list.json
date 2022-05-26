@@ -53,6 +53,7 @@
   "default": {
     "chainId": 0,
     "name": "",
+    "explorerUrl": "",
     "logo": "https://etherscan.io/images/main/empty-token.png"
   }
 }
