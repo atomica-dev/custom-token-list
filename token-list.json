@@ -40345,6 +40345,145 @@
       "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png",
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC"
+    },
+    {
+      "address": "0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F",
+      "chainId": 5,
+      "decimals": 18,
+      "name": "Curve",
+      "symbol": "CRV"
+    },
+    {
+      "address": "0x67E614fA920e51BDb84695Fd35E1E74739E533EB",
+      "chainId": 5,
+      "decimals": 18,
+      "name": "Frax",
+      "symbol": "FRAX"
+    },
+    {
+      "address": "0xDC7f5ffa47638937e0b221F5Fb952Ec4230D5908",
+      "chainId": 5,
+      "decimals": 18,
+      "name": "Magic Internet Money",
+      "logoURI": "https://assets.coingecko.com/coins/images/16786/small/mimlogopng.png",
+      "symbol": "MIM"
+    },
+    {
+      "address": "0xbe4318B921665c9774B72af6207fC22eE20C2468",
+      "chainId": 5,
+      "decimals": 18,
+      "name": "TerraUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/12681/small/UST.png",
+      "symbol": "UST"
+    },
+    {
+      "address": "0xd7d947643776C825Bd12B2E251d552202823c284",
+      "chainId": 5,
+      "decimals": 18,
+      "name": "Abracadabra",
+      "symbol": "SPELL"
+    },
+    {
+      "address": "0x1fE23Dc85167F7Fb96b4E1d8950dFF2Dffb3e30a",
+      "chainId": 5,
+      "decimals": 18,
+      "name": "Anchor",
+      "symbol": "ANC"
+    },
+    {
+      "address": "0x9225cCa21B7c4b5B329ff4f5388dBEa98717dE9b",
+      "chainId": 5,
+      "decimals": 4,
+      "name": "Astroport",
+      "logoURI": "https://assets.coingecko.com/coins/images/20804/small/Astro_coin_icon.png",
+      "symbol": "ASTRO"
+    },
+    {
+      "address": "0x37CFE50e8451AA51C80Ce82722b2ee3d5E35C9B7",
+      "chainId": 5,
+      "decimals": 6,
+      "name": "Solend",
+      "logoURI": "https://assets.coingecko.com/coins/images/19573/small/i6AMOwun_400x400.jpg",
+      "symbol": "SLND"
+    },
+    {
+      "address": "0xA896791Fd6cD8408aE95c86E468032B9DCAA1557",
+      "chainId": 5,
+      "decimals": 6,
+      "name": "Tulip Protocol",
+      "logoURI": "https://assets.coingecko.com/coins/images/15764/small/TqrUdBG.png",
+      "symbol": "TULIP"
+    },
+    {
+      "address": "0xb0f7A4e34f64fEe74B352afEfA5473034D425B3b",
+      "chainId": 5,
+      "decimals": 18,
+      "name": "Benqi",
+      "logoURI": "https://assets.coingecko.com/coins/images/16362/small/p0f8Wjvn_400x400.jpg",
+      "symbol": "QI"
+    },
+    {
+      "address": "0x468ea4818B2384dcA01a3AcaB639a12de94e29f0",
+      "chainId": 5,
+      "decimals": 18,
+      "name": "yearn.finance",
+      "symbol": "YFI"
+    },
+    {
+      "address": "0xEB66c1cEb1D2135E40f404cC750Fc2B73f0d5213",
+      "chainId": 5,
+      "decimals": 18,
+      "name": "Scream",
+      "logoURI": "https://assets.coingecko.com/coins/images/17509/small/output-onlinepngtools_%286%29.png",
+      "symbol": "SCREAM"
+    },
+    {
+      "address": "0xC99A9B3111f132683451DCC239AD5aA8A9834230",
+      "chainId": 5,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17569/small/joe_200x200.png",
+      "name": "Trader Joe",
+      "symbol": "JOE"
+    },
+    {
+      "address": "0xE5DdFfeb9B55FdebA85671954b25e2e0C0af1bc6",
+      "chainId": 5,
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png",
+      "name": "Avalanche",
+      "symbol": "AVAX"
+    },
+    {
+      "address": "0x9b487B98b27675E06F40C94C9cA1778f3B70BDCd",
+      "chainId": 5,
+      "decimals": 18,
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+      "name": "Uniswap",
+      "symbol": "UNI"
+    },
+    {
+      "address": "0x133c7F0694C43639D1A76dbE8DD0B0B276a34223",
+      "chainId": 5,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png",
+      "name": "Compound",
+      "symbol": "COMP"
+    },
+    {
+      "address": "0x2FA843abc4bC39aab61731E0AA4a952b494C767b",
+      "chainId": 5,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22617/small/astr.png",
+      "name": "Astar",
+      "symbol": "ASTR"
+    },
+    {
+      "address": "0xD4f56ca7fe1E23d72830c1631F70736aADc7716b",
+      "chainId": 5,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png",
+      "name": "Dai",
+      "symbol": "DAI"
     }
   ]
 }
