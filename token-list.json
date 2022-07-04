@@ -40484,6 +40484,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png",
       "name": "Dai",
       "symbol": "DAI"
+    },
+    {
+      "address": "0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A",
+      "chainId": 5,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png",
+      "name": "USD Coin",
+      "symbol": "USDC"
     }
   ]
 }
