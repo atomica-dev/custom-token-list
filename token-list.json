@@ -39672,6 +39672,14 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_REP.svg"
     },
     {
+      "chainId": 4,
+      "address": "0x528e8c8cC1093484f4880d70907514FA7D5aFb1d",
+      "name": "DOT Token",
+      "symbol": "DOT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12171/small/polkadot.png?1639712644"
+    },
+    {
       "chainId": 5,
       "address": "0xCEC4a43eBB02f9B80916F1c718338169d6d5C1F0",
       "name": "Compound USD Coin",
