@@ -40193,6 +40193,7 @@
       "address": "0x75885344541109D2ab5440c3320954dB451d3c92",
       "chainId": 4,
       "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15861/thumb/abracadabra-3.png?1622544862",
       "name": "Spell Token",
       "symbol": "SPELL"
     },
@@ -40358,6 +40359,7 @@
       "address": "0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F",
       "chainId": 5,
       "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/thumb/Curve.png?1597369484",
       "name": "Curve",
       "symbol": "CRV"
     },
@@ -40388,6 +40390,7 @@
       "address": "0xd7d947643776C825Bd12B2E251d552202823c284",
       "chainId": 5,
       "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15861/thumb/abracadabra-3.png?1622544862",
       "name": "Abracadabra",
       "symbol": "SPELL"
     },
@@ -40395,7 +40398,8 @@
       "address": "0x1fE23Dc85167F7Fb96b4E1d8950dFF2Dffb3e30a",
       "chainId": 5,
       "decimals": 18,
-      "name": "Anchor",
+      "logoURI": "https://assets.coingecko.com/coins/images/14420/thumb/anchor_protocol_logo.jpg?1615965420",
+      "name": "Anchor Protocol",
       "symbol": "ANC"
     },
     {
