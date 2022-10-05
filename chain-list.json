@@ -1,12 +1,6 @@
 {
   "list": [
     {
-      "chainId": 4,
-      "name": "Rinkeby",
-      "explorerUrl": "https://rinkeby.etherscan.io/",
-      "logo": "https://etherscan.io/images/main/empty-token.png"
-    },
-    {
       "chainId": 1,
       "name": "Ethereum",
       "explorerUrl": "https://etherscan.io/",
