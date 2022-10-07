@@ -40144,6 +40144,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
     },
     {
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "chainId": 137,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
       "symbol": "WETH",
