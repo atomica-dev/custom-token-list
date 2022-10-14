@@ -3,50 +3,146 @@
     {
       "chainId": 1,
       "name": "Ethereum",
+      "fullName": "Ethereum Mainnet",
       "explorerUrl": "https://etherscan.io/",
-      "logo": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
+      "logo": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+      "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://mainnet.infura.io/v3/",
+        "https://api.mycryptoapi.com/eth",
+        "https://cloudflare-eth.com",
+        "https://eth.public-rpc.com",
+        "https://rpc.ankr.com/eth"
+      ]
     },
     {
       "chainId": 5,
       "name": "Goerli",
+      "fullName": "Goerli",
       "explorerUrl": "https://goerli.etherscan.io/",
-      "logo": "https://avatars.githubusercontent.com/u/43071041?s=200&v=4"
+      "logo": "https://avatars.githubusercontent.com/u/43071041?s=200&v=4",
+      "nativeCurrency": {
+        "name": "Goerli Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://goerli.infura.io/v3/",
+        "https://eth-goerli.public.blastapi.io",
+        "https://rpc.ankr.com/eth_goerli"
+      ]
     },
     {
       "chainId": 56,
       "name": "BSC",
+      "fullName": "Binance Smart Chain Mainnet",
       "explorerUrl": "https://bscscan.com/",
-      "logo": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png"
+      "logo": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png",
+      "nativeCurrency": {
+        "name": "Binance Chain Native Token",
+        "symbol": "BNB",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://bsc-dataseed1.binance.org",
+        "https://bsc-dataseed2.binance.org",
+        "https://bsc-dataseed3.binance.org",
+        "https://bsc-dataseed4.binance.org",
+        "https://bsc-dataseed1.defibit.io",
+        "https://bsc-dataseed2.defibit.io",
+        "https://bsc-dataseed3.defibit.io",
+        "https://bsc-dataseed4.defibit.io",
+        "https://bsc-dataseed1.ninicoin.io",
+        "https://bsc-dataseed2.ninicoin.io",
+        "https://bsc-dataseed3.ninicoin.io",
+        "https://bsc-dataseed4.ninicoin.io",
+        "https://bscrpc.com",
+        "https://rpc.ankr.com/bsc",
+        "wss://bsc-ws-node.nariox.org"
+      ]
     },
     {
       "chainId": 43114,
       "name": "Avalanche",
+      "fullName": "Avalanche C-Chain",
       "explorerUrl": "https://snowtrace.io/",
-      "logo": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png"
+      "logo": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png",
+      "nativeCurrency": {
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://api.avax.network/ext/bc/C/rpc",
+        "https://avalanche.public-rpc.com",
+        "https://rpc.ankr.com/avalanche"
+      ]
     },
     {
       "chainId": 137,
       "name": "Polygon",
+      "fullName": "Polygon Mainnet",
       "explorerUrl": "https://polygonscan.com/",
-      "logo": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png"
+      "logo": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png",
+      "nativeCurrency": {
+        "name": "MATIC",
+        "symbol": "MATIC",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://polygon-rpc.com/",
+        "https://rpc-mainnet.matic.network",
+        "https://matic-mainnet.chainstacklabs.com",
+        "https://rpc-mainnet.maticvigil.com",
+        "https://rpc-mainnet.matic.quiknode.pro",
+        "https://matic-mainnet-full-rpc.bwarelabs.com",
+        "https://rpc.ankr.com/polygon"
+      ]
     },
     {
       "chainId": 250,
       "name": "Fantom",
+      "fullName": "Fantom Opera",
       "explorerUrl": "https://ftmscan.com/",
-      "logo": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png"
+      "logo": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png",
+      "nativeCurrency": {
+        "name": "Fantom",
+        "symbol": "FTM",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.ftm.tools",
+        "https://rpc.fantom.network",
+        "https://rpc.ankr.com/fantom"
+      ]
     },
     {
       "chainId": 592,
       "name": "Astar",
+      "fullName": "Astar",
       "explorerUrl": "https://blockscout.com/astar/",
-      "logo": "https://assets.coingecko.com/coins/images/22617/small/astr.png"
+      "logo": "https://assets.coingecko.com/coins/images/22617/small/astr.png",
+      "nativeCurrency": {
+        "name": "Astar",
+        "symbol": "ASTR",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.astar.network:8545",
+        "https://1rpc.io/astr",
+        "https://evm.astar.network"
+      ]
     }
   ],
 
   "default": {
     "chainId": 0,
     "name": "",
+    "fullName": "",
     "explorerUrl": "",
     "logo": "https://etherscan.io/images/main/empty-token.png"
   }
