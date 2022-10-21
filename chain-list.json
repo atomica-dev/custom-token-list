@@ -136,6 +136,23 @@
         "https://1rpc.io/astr",
         "https://evm.astar.network"
       ]
+    },
+    {
+      "chainId": 80001,
+      "name": "Mumbai",
+      "fullName": "Polygon Mumbai Testnet",
+      "explorerUrl": "https://mumbai.polygonscan.com/",
+      "logo": "",
+      "nativeCurrency": {
+        "name": "MATIC",
+        "symbol": "MATIC",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.ankr.com/polygon_mumbai",
+        "https://matic-testnet-archive-rpc.bwarelabs.com",
+        "https://matic-mumbai.chainstacklabs.com"
+      ]
     }
   ],
 
