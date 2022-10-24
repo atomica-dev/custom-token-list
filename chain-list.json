@@ -140,7 +140,7 @@
     {
       "chainId": 80001,
       "name": "Mumbai",
-      "fullName": "Polygon Mumbai Testnet",
+      "fullName": "Mumbai",
       "explorerUrl": "https://mumbai.polygonscan.com/",
       "logo": "",
       "nativeCurrency": {
@@ -149,9 +149,11 @@
         "decimals": 18
       },
       "rpcUrls": [
-        "https://rpc.ankr.com/polygon_mumbai",
+        "https://matic-mumbai.chainstacklabs.com",
+        "https://rpc-mumbai.maticvigil.com",
         "https://matic-testnet-archive-rpc.bwarelabs.com",
-        "https://matic-mumbai.chainstacklabs.com"
+        "https://polygon-testnet.public.blastapi.io",
+        "https://rpc.ankr.com/polygon_mumbai"
       ]
     }
   ],
