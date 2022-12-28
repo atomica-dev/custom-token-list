@@ -5,7 +5,7 @@
       "name": "Ethereum",
       "fullName": "Ethereum Mainnet",
       "explorerUrl": "https://etherscan.io/",
-      "logo": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/ethereum.svg",
       "nativeCurrency": {
         "name": "Ether",
         "symbol": "ETH",
@@ -24,7 +24,7 @@
       "name": "Goerli",
       "fullName": "Goerli",
       "explorerUrl": "https://goerli.etherscan.io/",
-      "logo": "https://avatars.githubusercontent.com/u/43071041?s=200&v=4",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/goerli.png",
       "nativeCurrency": {
         "name": "Goerli Ether",
         "symbol": "ETH",
@@ -41,7 +41,7 @@
       "name": "BSC",
       "fullName": "Binance Smart Chain Mainnet",
       "explorerUrl": "https://bscscan.com/",
-      "logo": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/bsc_2.svg",
       "nativeCurrency": {
         "name": "Binance Chain Native Token",
         "symbol": "BNB",
@@ -70,7 +70,7 @@
       "name": "Avalanche",
       "fullName": "Avalanche C-Chain",
       "explorerUrl": "https://snowtrace.io/",
-      "logo": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/avalanche.svg",
       "nativeCurrency": {
         "name": "Avalanche",
         "symbol": "AVAX",
@@ -87,7 +87,7 @@
       "name": "Polygon",
       "fullName": "Polygon Mainnet",
       "explorerUrl": "https://polygonscan.com/",
-      "logo": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/polygon.svg",
       "nativeCurrency": {
         "name": "MATIC",
         "symbol": "MATIC",
@@ -108,7 +108,7 @@
       "name": "Fantom",
       "fullName": "Fantom Opera",
       "explorerUrl": "https://ftmscan.com/",
-      "logo": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/fantom.svg",
       "nativeCurrency": {
         "name": "Fantom",
         "symbol": "FTM",
@@ -125,7 +125,7 @@
       "name": "Astar",
       "fullName": "Astar",
       "explorerUrl": "https://blockscout.com/astar/",
-      "logo": "https://assets.coingecko.com/coins/images/22617/small/astr.png",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/astr.png",
       "nativeCurrency": {
         "name": "Astar",
         "symbol": "ASTR",
@@ -141,8 +141,8 @@
       "chainId": 80001,
       "name": "Mumbai",
       "fullName": "Mumbai",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/polygon.svg",
       "explorerUrl": "https://mumbai.polygonscan.com/",
-      "logo": "",
       "nativeCurrency": {
         "name": "MATIC",
         "symbol": "MATIC",
