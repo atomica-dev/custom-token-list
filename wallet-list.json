@@ -1,0 +1,38 @@
+[
+  {
+    "id": "metamask",
+    "name": "Metamask",
+    "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/metamask.svg",
+    "supportedChains": [1, 5, 56, 43114, 137, 250, 592, 80001]
+  },
+  {
+    "id": "walletConnect",
+    "name": "Wallet Connect",
+    "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/wallet-connect.svg",
+    "supportedChains": [1, 5, 56, 43114, 137, 250, 592, 80001]
+  },
+  {
+    "id": "walletLink",
+    "name": "Coinbase wallet",
+    "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/wallet-link.svg",
+    "supportedChains": [1, 56, 43114, 137, 250]
+  },
+  {
+    "id": "fortmatic",
+    "name": "Fortmatic",
+    "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/fortmatic.svg",
+    "supportedChains": [1]
+  },
+  {
+    "id": "portis",
+    "name": "Portis",
+    "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/portis.svg",
+    "supportedChains": [1, 137, 80001]
+  },
+  {
+    "id": "torus",
+    "name": "Torus",
+    "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/torus.svg",
+    "supportedChains": [1, 56, 43114, 137, 592]
+  }
+]
