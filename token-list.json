@@ -40099,6 +40099,14 @@
       "symbol": "USDC"
     },
     {
+      "address": "0x46960beB2e1ECD7CbDe8C43407c24893B6Fd921A",
+      "chainId": 80001,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x46960beB2e1ECD7CbDe8C43407c24893B6Fd921A.png",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC"
+    },
+    {
       "address": "0x3feD38b56631e4Dc2DAc7653f5789b6dDAB2832D",
       "chainId": 42,
       "decimals": 6,
