@@ -40110,7 +40110,7 @@
       "address": "0x21F86113c57061bd5c5ee8953322b712b7911e11",
       "chainId": 80001,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x21F86113c57061bd5c5ee8953322b712b7911e11.png",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
       "name": "WETH-USDC Uniswap v2",
       "symbol": "WETH-USDC Uniswap v2"
     },
@@ -40118,7 +40118,7 @@
       "address": "0x0B7d69F6Ab6A3f479476c2a18Ad77373eD7B016a",
       "chainId": 80001,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x0B7d69F6Ab6A3f479476c2a18Ad77373eD7B016a.png",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
       "name": "Curve.fi DAI/USDC/USDT",
       "symbol": "3Crv"
     },
@@ -40126,7 +40126,7 @@
       "address": "0x3B15906772583806F3C1840b741F1e6274cEDc0B",
       "chainId": 80001,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x3B15906772583806F3C1840b741F1e6274cEDc0B.png",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
       "name": "Curve.fi ETH/stETH",
       "symbol": "steCRV"
     },
@@ -40134,7 +40134,7 @@
       "address": "0xd300722AC10F4F64957ecf56275ECb34bc89AB4D",
       "chainId": 80001,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xd300722AC10F4F64957ecf56275ECb34bc89AB4D.png",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
       "name": "Curve.fi USD-BTC-ETH",
       "symbol": "crv3crypto"
     },
