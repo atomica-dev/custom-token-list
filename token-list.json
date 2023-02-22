@@ -39942,11 +39942,11 @@
     },
     {
       "name": "Wrapped Ether",
-      "address": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
+      "address": "0xd047C4Df33085C61C067f2595e77b6eB8FcAC763",
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 80001,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa.png"
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xd047C4Df33085C61C067f2595e77b6eB8FcAC763.png"
     },
     {
       "name": "Wrapped Matic",
