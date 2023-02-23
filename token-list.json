@@ -40099,6 +40099,30 @@
       "symbol": "USDC"
     },
     {
+      "address": "0x3337886c23795eb62d12c1409601aDc54beC9613",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x3337886c23795eb62d12c1409601aDc54beC9613.png",
+      "name": "TrueUSD",
+      "symbol": "TUSD"
+    },
+    {
+      "address": "0xFA542Cdd830ECE7825cd8Fe6A960bbC702B40246",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xFA542Cdd830ECE7825cd8Fe6A960bbC702B40246.png",
+      "name": "Binance USD",
+      "symbol": "BUSD"
+    },
+    {
+      "address": "0xB1F2B78Fa7a47e66Ba162e50eAD8818698982536",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xB1F2B78Fa7a47e66Ba162e50eAD8818698982536.png",
+      "name": "Pax Dollar",
+      "symbol": "USDP"
+    },
+    {
       "address": "0x46960beB2e1ECD7CbDe8C43407c24893B6Fd921A",
       "chainId": 80001,
       "decimals": 8,
