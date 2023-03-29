@@ -11,6 +11,12 @@
         "symbol": "ETH",
         "decimals": 18
       },
+      "wrappedNativeToken": {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+      },
       "rpcUrls": [
         "https://mainnet.infura.io/v3/",
         "https://api.mycryptoapi.com/eth",
@@ -30,6 +36,12 @@
         "symbol": "ETH",
         "decimals": 18
       },
+      "wrappedNativeToken": {
+        "name": "Wrapped Goerli Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "address": "0xb4fbf271143f4fbf7b91a5ded31805e42b2208d6"
+      },
       "rpcUrls": [
         "https://goerli.infura.io/v3/",
         "https://eth-goerli.public.blastapi.io",
@@ -46,6 +58,12 @@
         "name": "Binance Chain Native Token",
         "symbol": "BNB",
         "decimals": 18
+      },
+      "wrappedNativeToken": {
+        "name": "Wrapped BNB",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
       },
       "rpcUrls": [
         "https://bsc-dataseed1.binance.org",
@@ -76,6 +94,12 @@
         "symbol": "AVAX",
         "decimals": 18
       },
+      "wrappedNativeToken": {
+        "name": "Wrapped AVAX",
+        "symbol": "WAVAX",
+        "decimals": 18,
+        "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+      },
       "rpcUrls": [
         "https://api.avax.network/ext/bc/C/rpc",
         "https://avalanche.public-rpc.com",
@@ -92,6 +116,12 @@
         "name": "MATIC",
         "symbol": "MATIC",
         "decimals": 18
+      },
+      "wrappedNativeToken": {
+        "name": "Wrapped MATIC",
+        "symbol": "WMATIC",
+        "decimals": 18,
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
       },
       "rpcUrls": [
         "https://polygon-rpc.com/",
@@ -114,6 +144,12 @@
         "symbol": "FTM",
         "decimals": 18
       },
+      "wrappedNativeToken": {
+        "name": "Wrapped Fantom",
+        "symbol": "WFTM",
+        "decimals": 18,
+        "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83"
+      },
       "rpcUrls": [
         "https://rpc.ftm.tools",
         "https://rpc.fantom.network",
@@ -131,6 +167,12 @@
         "symbol": "ASTR",
         "decimals": 18
       },
+      "wrappedNativeToken": {
+        "name": "Wrapped Astar",
+        "symbol": "WASTR",
+        "decimals": 18,
+        "address": "0xEcC867DE9F5090F55908Aaa1352950b9eed390cD"
+      },
       "rpcUrls": [
         "https://rpc.astar.network:8545",
         "https://1rpc.io/astr",
@@ -147,6 +189,12 @@
         "name": "MATIC",
         "symbol": "MATIC",
         "decimals": 18
+      },
+      "wrappedNativeToken": {
+        "name": "Wrapped Mumbai Matic",
+        "symbol": "WMATIC",
+        "decimals": 18,
+        "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889"
       },
       "rpcUrls": [
         "https://matic-mumbai.chainstacklabs.com",
