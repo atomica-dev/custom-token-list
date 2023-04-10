@@ -40166,7 +40166,7 @@
       "address": "0xd300722AC10F4F64957ecf56275ECb34bc89AB4D",
       "chainId": 80001,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12817/small/filecoin.png?1602753933",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xd300722AC10F4F64957ecf56275ECb34bc89AB4D.png",
       "name": "Filecoin",
       "symbol": "FIL"
     },
@@ -40174,7 +40174,7 @@
       "address": "0xc33CAE353B7951Ae4b29234b6698a27930A9680F",
       "chainId": 80001,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12817/small/filecoin.png?1602753933",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xc33CAE353B7951Ae4b29234b6698a27930A9680F.png",
       "name": "iFIL",
       "symbol": "iFIL"
     },
