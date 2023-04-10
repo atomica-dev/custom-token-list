@@ -40171,6 +40171,14 @@
       "symbol": "FIL"
     },
     {
+      "address": "0xc33CAE353B7951Ae4b29234b6698a27930A9680F",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12817/small/filecoin.png?1602753933",
+      "name": "iFIL",
+      "symbol": "iFIL"
+    },
+    {
       "address": "0x3feD38b56631e4Dc2DAc7653f5789b6dDAB2832D",
       "chainId": 42,
       "decimals": 6,
