@@ -40098,7 +40098,6 @@
       "name": "USD Coin",
       "symbol": "USDC"
     },
-    // Aave test USDC token on Mumbai.
     {
       "address": "0xe9DcE89B076BA6107Bb64EF30678efec11939234",
       "chainId": 80001,
