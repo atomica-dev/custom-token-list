@@ -40187,6 +40187,22 @@
       "symbol": "iFIL"
     },
     {
+      "address": "0x043A6c6D1885d49bf541CEC3065C4C802c57d8E8",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x043A6c6D1885d49bf541CEC3065C4C802c57d8E8.png",
+      "name": "QuickSwap",
+      "symbol": "QUICK"
+    },
+    {
+      "address": "0x410bFD12D3d721d068404b6b63Cb9E21646d02f7",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "name": "QUICK/ MATIC LP",
+      "symbol": "LPQM"
+    },
+    {
       "address": "0x3feD38b56631e4Dc2DAc7653f5789b6dDAB2832D",
       "chainId": 42,
       "decimals": 6,
