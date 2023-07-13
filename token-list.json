@@ -40203,6 +40203,14 @@
       "symbol": "LPQM"
     },
     {
+      "name": "Wrapped Ether",
+      "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 43113,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xd047C4Df33085C61C067f2595e77b6eB8FcAC763.png"
+    },
+    {
       "address": "0x5Eeae5A27dC5F0FD1B27ebAdE2c2332A12E8fe61",
       "chainId": 43113,
       "decimals": 18,
