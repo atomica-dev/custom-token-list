@@ -161,7 +161,7 @@
       "name": "Fuji",
       "fullName": "Avalanche Fuji Testnet",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOg3AsCVQ2nct3-KHOuNH_bESjlKdZTFBZDGybc7NkQQ&s",
-      "explorerUrl": "https://testnet.snowtrace.io",
+      "explorerUrl": "https://testnet.snowtrace.io/",
       "nativeCurrency": {
         "name": "AVAX",
         "symbol": "AVAX",
