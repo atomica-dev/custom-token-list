@@ -172,6 +172,22 @@
         "https://avalanche-fuji-c-chain.publicnode.com",
         "https://avalanche-fuji.rpc.thirdweb.com"
       ]
+    },
+    {
+      "chainId": 1442,
+      "name": "zkEVM Testnet",
+      "fullName": "Polygon zkEVM Testnet",
+      "logo": "https://avatars.githubusercontent.com/u/108818688?s=280&v=4",
+      "explorerUrl": "https://testnet-zkevm.polygonscan.com/",
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://rpc.public.zkevm-test.net",
+        "https://polygonzkevm-testnet.g.alchemy.com/v2/demo"
+      ]
     }
   ],
 
