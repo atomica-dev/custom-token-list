@@ -188,7 +188,7 @@
         "https://1rpc.io/astr",
         "https://evm.astar.network"
       ]
-    },
+    }
   ],
 
   "default": {
