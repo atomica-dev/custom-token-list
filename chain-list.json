@@ -160,7 +160,7 @@
       "chainId": 43113,
       "name": "Fuji",
       "fullName": "Avalanche Fuji Testnet",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOg3AsCVQ2nct3-KHOuNH_bESjlKdZTFBZDGybc7NkQQ&s",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/avalanche.svg",
       "explorerUrl": "https://testnet.snowtrace.io/",
       "nativeCurrency": {
         "name": "AVAX",
@@ -177,7 +177,7 @@
       "chainId": 1442,
       "name": "zkEVM Testnet",
       "fullName": "Polygon zkEVM Testnet",
-      "logo": "https://avatars.githubusercontent.com/u/108818688?s=280&v=4",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/polygon.svg",
       "explorerUrl": "https://testnet-zkevm.polygonscan.com/",
       "nativeCurrency": {
         "name": "ETH",
