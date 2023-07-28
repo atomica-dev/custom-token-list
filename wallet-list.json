@@ -3,13 +3,13 @@
     "id": "metamask",
     "name": "Metamask",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/metamask.svg",
-    "supportedChains": [1, 5, 56, 43114, 137, 250, 592, 80001, 43113, 1442]
+    "supportedChains": [1, 5, 56, 43114, 137, 250, 592, 80001, 43113, 1442, 1101]
   },
   {
     "id": "walletConnect",
     "name": "Wallet Connect",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/wallet-connect.svg",
-    "supportedChains": [1, 5, 56, 43114, 137, 250, 592, 80001]
+    "supportedChains": [1, 5, 56, 43114, 137, 80001, 1101]
   },
   {
     "id": "walletLink",
@@ -33,6 +33,6 @@
     "id": "torus",
     "name": "Torus",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/torus.svg",
-    "supportedChains": [1, 56, 43114, 137, 592]
+    "supportedChains": [1, 56, 137]
   }
 ]

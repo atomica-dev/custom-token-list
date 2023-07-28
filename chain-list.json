@@ -75,6 +75,25 @@
       ]
     },
     {
+      "chainId": 1101,
+      "name": "Polygon zkEVM",
+      "fullName": "Polygon zkEVM",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/polygon.svg",
+      "explorerUrl": "https://zkevm.polygonscan.com/",
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://zkevm-rpc.com",
+        "https://polygon-zkevm.blockpi.network/v1/rpc/public",
+        "https://rpc.polygon-zkevm.gateway.fm",
+        "https://rpc.ankr.com/polygon_zkevm",
+        "https://1rpc.io/zkevm"
+      ]
+    },
+    {
       "chainId": 1442,
       "name": "zkEVM Testnet",
       "fullName": "Polygon zkEVM Testnet",
