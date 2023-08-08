@@ -41069,6 +41069,14 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3.png"
     },
     {
+      "chainId": 43114,
+      "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64.png"
+    },
+    {
       "chainId": 1101,
       "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
       "name": "USD Coin",
