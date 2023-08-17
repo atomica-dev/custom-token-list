@@ -1,14 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="50" height="50" viewBox="0 0 50 50" xml:space="preserve">
-<desc>Created with Fabric.js 3.5.0</desc>
-<defs>
-</defs>
-<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
-<g transform="matrix(0.0138 0 0 0.0138 25 25)" id="264053">
-<linearGradient id="SVGID_3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 -1 0 2211.8899)" x1="209.7147" y1="350.5264" x2="2362.7148" y2="1912.5264">
-<stop offset="0%" style="stop-color:rgb(167,38,193);stop-opacity: 1"/>
-<stop offset="87.83999999999999%" style="stop-color:rgb(128,59,223);stop-opacity: 1"/>
-<stop offset="100%" style="stop-color:rgb(123,63,228);stop-opacity: 1"/>
-</linearGradient>
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: url(#SVGID_3); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-1249.5, -1107)" d="M 1856 1559 l 593 -342 c 31 -18 51 -52 51 -88 V 444 c 0 -36 -20 -70 -51 -88 L 1856 14 c -31 -18 -70 -18 -102 0 l -593 342 c -31 18 -51 52 -51 88 v 1224 l -416 240 l -416 -240 v -480 l 416 -240 l 274 158 V 784 L 745 655 c -15 -9 -33 -14 -51 -14 s -35 5 -51 14 L 50 997 c -31 18 -51 52 -51 88 v 685 c 0 36 20 70 51 88 l 593 342 c 31 18 70 18 102 0 l 593 -342 c 31 -18 51 -52 51 -88 V 546 l 8 -4 l 408 -236 l 416 240 v 480 l -416 240 l -274 -158 v 322 l 223 129 C 1785 1577 1824 1577 1856 1559 L 1856 1559 z" stroke-linecap="round"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2500" height="2500">
+  <g style="display:inline" transform="matrix(1.00753 0 0 1.00753 162.088 288.339)">
+    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="209.715" y1="350.526" x2="2362.715" y2="1912.526" gradientTransform="matrix(.86281 0 0 -.86281 .863 1908.016)">
+      <stop offset="0" style="stop-color:#a726c1" />
+      <stop offset=".878" style="stop-color:#803bdf" />
+      <stop offset="1" style="stop-color:#7b3fe4" />
+    </linearGradient>
+    <path d="m1602.244 1344.694 511.648-295.082c26.747-15.53 44.003-44.866 44.003-75.928V382.658c0-31.062-17.256-60.397-44.003-75.928L1602.244 11.648c-26.748-15.53-60.397-15.53-88.007 0L1002.589 306.73c-26.748 15.53-44.004 44.866-44.004 75.928V1438.74l-358.93 207.076-358.93-207.075v-414.15l358.93-207.076 236.41 136.325V676.014L643.659 564.71c-12.942-7.765-28.472-12.08-44.003-12.08-15.53 0-30.198 4.315-44.004 12.08L44.003 859.793C17.256 875.323 0 904.66 0 935.721v591.026c0 31.062 17.256 60.397 44.003 75.928l511.648 295.082c26.748 15.53 60.397 15.53 88.007 0l511.649-295.082c26.747-15.53 44.003-44.866 44.003-75.928V470.664l6.902-3.45 352.028-203.625 358.93 207.075v414.15l-358.93 207.076-236.41-136.325v277.826l192.407 111.303c26.747 15.53 60.397 15.53 88.007 0z" style="fill:url(#a);stroke-width:.862813" />
+  </g>
 </svg>
