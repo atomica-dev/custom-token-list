@@ -110,6 +110,27 @@
       ]
     },
     {
+      "chainId": 11155111,
+      "name": "Sepolia",
+      "fullName": "Sepolia",
+      "logo": "https://sepolia.dev/wp-content/uploads/elementor/thumbs/the-dolphin-po0q7ezlhqqzvrfmzw0atih2l0vqelut73w4eh5qtc.png",
+      "explorerUrl": "https://sepolia.etherscan.io/",
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://ethereum-sepolia.blockpi.network/v1/rpc/public",
+        "https://rpc.notadegen.com/eth/sepolia",
+        "https://sepolia.gateway.tenderly.co",
+        "https://rpc2.sepolia.org",
+        "https://endpoints.omniatech.io/v1/eth/sepolia/public",
+        "https://rpc.notadegen.com/eth/sepolia",
+        "https://eth-sepolia.public.blastapi.io"
+      ]
+    },
+    {
       "chainId": 1,
       "name": "Ethereum",
       "fullName": "Ethereum Mainnet",
