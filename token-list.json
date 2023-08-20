@@ -41243,6 +41243,236 @@
       "symbol": "USDP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xB1F2B78Fa7a47e66Ba162e50eAD8818698982536.png"
+    },
+    {
+      "address": "0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A",
+      "chainId": 11155111,
+      "name": "Basic Attention Token",
+      "symbol": "BAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x482dC9bB08111CB875109B075A40881E48aE02Cd.svg"
+    },
+    {
+      "name": "Wrapped Ether",
+      "chainId": 11155111,
+      "address": "0xde7D9A9CF549E84e9Ea36965041bf2Df03Fe32Be",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xd047C4Df33085C61C067f2595e77b6eB8FcAC763.png"
+    },
+    {
+      "address": "0xd7d947643776C825Bd12B2E251d552202823c284",
+      "chainId": 11155111,
+      "name": "Curve",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png"
+    },
+    {
+      "address": "0x321AE5782f4cfFdc46883e08874b568919f06eAd",
+      "chainId": 11155111,
+      "decimals": 18,
+      "name": "Frax",
+      "symbol": "FRAX"
+    },
+    {
+      "address": "0x87575927E03756c0a09edb2D785Ef3cA646fe803",
+      "chainId": 11155111,
+      "decimals": 18,
+      "name": "Magic Internet Money",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xDC7f5ffa47638937e0b221F5Fb952Ec4230D5908.png",
+      "symbol": "MIM"
+    },
+    {
+      "address": "0x0904B45D5ab33f3FE894a7ed89913fE4de2f6422",
+      "chainId": 11155111,
+      "decimals": 18,
+      "name": "TerraUSD",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xbe4318B921665c9774B72af6207fC22eE20C2468.png",
+      "symbol": "UST"
+    },
+    {
+      "address": "0x5B75E5CbD8f2Efaa4324cBC575B254F89FA8e7cB",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xd7d947643776C825Bd12B2E251d552202823c284.png",
+      "name": "Abracadabra",
+      "symbol": "SPELL"
+    },
+    {
+      "address": "0xb0f7A4e34f64fEe74B352afEfA5473034D425B3b",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x1fE23Dc85167F7Fb96b4E1d8950dFF2Dffb3e30a.jpg",
+      "name": "Anchor Protocol",
+      "symbol": "ANC"
+    },
+    {
+      "address": "0x0A53eefF88dC4bcE404037F849c2C86A2746DE2d",
+      "chainId": 11155111,
+      "decimals": 4,
+      "name": "Astroport",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x9225cCa21B7c4b5B329ff4f5388dBEa98717dE9b.png",
+      "symbol": "ASTRO"
+    },
+    {
+      "address": "0x9e38d9Fd285bA57f3e6b9B7E66A8674241671D00",
+      "chainId": 11155111,
+      "decimals": 6,
+      "name": "Solend",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x37CFE50e8451AA51C80Ce82722b2ee3d5E35C9B7.jpg",
+      "symbol": "SLND"
+    },
+    {
+      "address": "0x961d92476a25286AA0146E34007188738c6E9470",
+      "chainId": 11155111,
+      "decimals": 6,
+      "name": "Tulip Protocol",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xA896791Fd6cD8408aE95c86E468032B9DCAA1557.png",
+      "symbol": "TULIP"
+    },
+    {
+      "address": "0x9cDF3dc0e134739862CE3570b949D545416d4Ad9",
+      "chainId": 11155111,
+      "decimals": 18,
+      "name": "Benqi",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xb0f7A4e34f64fEe74B352afEfA5473034D425B3b.jpg",
+      "symbol": "QI"
+    },
+    {
+      "address": "0x04a57727bf0565231c75f07264D37ac1F2179757",
+      "chainId": 11155111,
+      "decimals": 18,
+      "name": "yearn.finance",
+      "symbol": "YFI"
+    },
+    {
+      "address": "0xbb3D995548Eb93eAEC3eFa1f13FD5953C05954fd",
+      "chainId": 11155111,
+      "decimals": 18,
+      "name": "Scream",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xEB66c1cEb1D2135E40f404cC750Fc2B73f0d5213.png",
+      "symbol": "SCREAM"
+    },
+    {
+      "address": "0x9Ed7c0f8b34FD3E67f5b462fa73660E9897BDbE4",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC99A9B3111f132683451DCC239AD5aA8A9834230.png",
+      "name": "Trader Joe",
+      "symbol": "JOE"
+    },
+    {
+      "address": "0x2d1bfB3e04F6389100C7eDB709e6665A5438b735",
+      "chainId": 11155111,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xE5DdFfeb9B55FdebA85671954b25e2e0C0af1bc6.png",
+      "name": "Avalanche",
+      "symbol": "AVAX"
+    },
+    {
+      "address": "0x628C2Aeb67288846cfC1926cc58CDD6C538F8D8E",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x9b487B98b27675E06F40C94C9cA1778f3B70BDCd.png",
+      "name": "Uniswap",
+      "symbol": "UNI"
+    },
+    {
+      "address": "0x96724af8551068548A491370B5F1e12253672403",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x133c7F0694C43639D1A76dbE8DD0B0B276a34223.png",
+      "name": "Compound",
+      "symbol": "COMP"
+    },
+    {
+      "address": "0xcDaa6759FDca24c53eb7a6a655e755F3C0341500",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xD4f56ca7fe1E23d72830c1631F70736aADc7716b.png",
+      "name": "Dai",
+      "symbol": "DAI"
+    },
+    {
+      "address": "0x6B75213F6FD399b2BE94d00Ba548C4a68d8CA665",
+      "chainId": 11155111,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    {
+      "address": "0x69F8c8F5F5aD49303f8C1bFd6279A8136C5bbd7a",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x3337886c23795eb62d12c1409601aDc54beC9613.png",
+      "name": "TrueUSD",
+      "symbol": "TUSD"
+    },
+    {
+      "address": "0xD62854985589346C5912092BDa5CfFa793C58693",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xFA542Cdd830ECE7825cd8Fe6A960bbC702B40246.png",
+      "name": "Binance USD",
+      "symbol": "BUSD"
+    },
+    {
+      "address": "0x6ec157ca45828EbAd9f26c491F6D710A68913a95",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xB1F2B78Fa7a47e66Ba162e50eAD8818698982536.png",
+      "name": "Pax Dollar",
+      "symbol": "USDP"
+    },
+    {
+      "address": "0xA7E87633487Fa7a0468aBC2082dC027339E08f0c",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    {
+      "address": "0xcf216f59cb23fF62Ee397f7D5405d01587cFe757",
+      "chainId": 11155111,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x46960beB2e1ECD7CbDe8C43407c24893B6Fd921A.png",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC"
+    },
+    {
+      "address": "0x452A8FA6D4CCf6dE72FE597228958A3f8BDfBB59",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "name": "WETH-USDC Uniswap v2",
+      "symbol": "WETH-USDC Uniswap v2"
+    },
+    {
+      "address": "0x643a71D29DAC7795888e50162F4479D987CA5aCd",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "name": "Curve.fi DAI/USDC/USDT",
+      "symbol": "3Crv"
+    },
+    {
+      "address": "0x7077e9df48e7e965A8228C639eBf99d5E388B841",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "name": "Curve.fi ETH/stETH",
+      "symbol": "steCRV"
+    },
+    {
+      "address": "0x03dFEF14417283222b5d8F775D2829B7CF1D5d3D",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "name": "Curve.fi USD-BTC-ETH",
+      "symbol": "crv3crypto"
     }
   ]
 }
