@@ -3,7 +3,7 @@
     "id": "metamask",
     "name": "Metamask",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/metamask.svg",
-    "supportedChains": [1, 5, 56, 43114, 137, 250, 592, 80001, 43113, 1442, 1101]
+    "supportedChains": [1, 5, 56, 43114, 137, 250, 592, 80001, 43113, 1442, 1101, 11155111, 4002, 42161]
   },
   {
     "id": "walletConnect",
