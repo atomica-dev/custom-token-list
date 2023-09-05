@@ -230,6 +230,24 @@
       ]
     },
     {
+      "chainId": 4002,
+      "name": "Fantom Testnet",
+      "fullName": "Fantom Testnet",
+      "explorerUrl": "https://testnet.ftmscan.com/",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/fantom.svg",
+      "nativeCurrency": {
+        "name": "Fantom",
+        "symbol": "FTM",
+        "decimals": 18
+      },
+      "rpcUrls": [
+        "https://fantom-testnet.public.blastapi.io",
+        "https://rpc.ankr.com/fantom_testnet",
+        "https://rpc.testnet.fantom.network",
+        "https://fantom-testnet.publicnode.com"
+      ]
+    },
+    {
       "chainId": 592,
       "name": "Astar",
       "fullName": "Astar",
