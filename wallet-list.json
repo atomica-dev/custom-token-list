@@ -12,7 +12,7 @@
     "supportedChains": [1, 5, 56, 137, 250, 1101, 1442, 4002, 42161, 43113, 43114, 80001, 11155111]
   },
   {
-    "id": "walletLink",
+    "id": "coinbaseWallet",
     "name": "Coinbase wallet",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/wallet-link.svg",
     "supportedChains": [1, 5, 56, 137, 250, 4002, 42161, 43113, 43114, 80001, 11155111]
