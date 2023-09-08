@@ -40203,6 +40203,14 @@
       "symbol": "LPQM"
     },
     {
+      "address": "0x9f86bA35a016acE27BD4C37E42a1940A5b2508EF",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x9f86bA35a016acE27BD4C37E42a1940A5b2508EF.png",
+      "name": "Gho Token",
+      "symbol": "GHO"
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
