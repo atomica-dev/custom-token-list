@@ -41502,7 +41502,7 @@
       "symbol": "crv3crypto"
     },
     {
-      "address": "0xe55C8c2c23Ad6953FD672b527b2A6d919Acf1834",
+      "address": "0x77fde93fee5fe272dc17d799cb61447431e6eba2",
       "chainId": 4002,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xD4f56ca7fe1E23d72830c1631F70736aADc7716b.png",
@@ -41511,7 +41511,7 @@
       "comment": "Aave token"
     },
     {
-      "address": "0x382E773695e6877B0BDc9d02DFe1594061879fE5",
+      "address": "0x66f61903d7fec18048bec2e792f272cb8b657733",
       "chainId": 4002,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
