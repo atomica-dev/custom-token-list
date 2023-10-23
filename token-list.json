@@ -41811,6 +41811,38 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x3337886c23795eb62d12c1409601aDc54beC9613.png",
       "name": "TrueUSD",
       "symbol": "TUSD"
+    },
+    {
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x912CE59144191C1204E64559FE8253a0e49E6548.png",
+      "name": "Arbitrum",
+      "symbol": "ARB"
+    },
+    {
+      "address": "0xb64e280e9d1b5dbec4accedb2257a87b400db149",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xb64e280e9d1b5dbec4accedb2257a87b400db149.png",
+      "name": "Level Token",
+      "symbol": "LVL"
+    },
+    {
+      "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07.png",
+      "name": "Joe Token",
+      "symbol": "JOE"
+    },
+    {
+      "address": "0x99c409e5f62e4bd2ac142f17cafb6810b8f0baae",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x99c409e5f62e4bd2ac142f17cafb6810b8f0baae.png",
+      "name": "beefy.finance",
+      "symbol": "BIFI"
     }
   ]
 }
