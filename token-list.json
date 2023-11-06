@@ -41254,6 +41254,14 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xB1F2B78Fa7a47e66Ba162e50eAD8818698982536.png"
     },
     {
+      "chainId": 1101,
+      "address": "0x686CFe074dD4ac97caC25f37552178b422041a1a",
+      "name": "aWETH-QUICK",
+      "symbol": "aWETH-QUICK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x686CFe074dD4ac97caC25f37552178b422041a1a.png"
+    },
+    {
       "address": "0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A",
       "chainId": 11155111,
       "name": "Basic Attention Token",
