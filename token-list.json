@@ -40212,6 +40212,14 @@
       "symbol": "GHO"
     },
     {
+      "address": "0x21651D3d6Ba17b876448c23CEA31f3AE9579Ece8",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x21651D3d6Ba17b876448c23CEA31f3AE9579Ece8.png",
+      "name": "StakeWise",
+      "symbol": "SWISE"
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
