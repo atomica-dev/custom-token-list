@@ -41472,7 +41472,7 @@
     {
       "address": "0xA7E87633487Fa7a0468aBC2082dC027339E08f0c",
       "chainId": 11155111,
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
       "name": "Tether USD",
       "symbol": "USDT"
@@ -41736,7 +41736,7 @@
     {
       "address": "0x07BbCAcB13d44dF0c3859c39CAf1B7408bcae4f7",
       "chainId": 4002,
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
       "name": "Tether USD",
       "symbol": "USDT"
