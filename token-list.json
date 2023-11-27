@@ -40220,6 +40220,51 @@
       "symbol": "SWISE"
     },
     {
+      "address": "0xe68Ce1a88cbC4F6d4ca54f372159Ef7cc296d9A4",
+      "chainId": 80001,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xe68Ce1a88cbC4F6d4ca54f372159Ef7cc296d9A4.svg",
+      "name": "xCORN",
+      "symbol": "xCORN",
+      "comment": "LandX xToken"
+    },
+    {
+      "address": "0xEf43C29ccF8C741aA33a6E2FE943A36409d7739D",
+      "chainId": 80001,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xEf43C29ccF8C741aA33a6E2FE943A36409d7739D.svg",
+      "name": "xSOY",
+      "symbol": "xSOY",
+      "comment": "LandX xToken"
+    },
+    {
+      "address": "0x6A5aC6BcEEBBB8E428851632c459aBEfCE05C8eb",
+      "chainId": 80001,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x6A5aC6BcEEBBB8E428851632c459aBEfCE05C8eb.svg",
+      "name": "xWHEAT",
+      "symbol": "xWHEAT",
+      "comment": "LandX xToken"
+    },
+    {
+      "address": "0x2415bD30e53Adb241f76912104Df0bdFC37A67Ca",
+      "chainId": 80001,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x2415bD30e53Adb241f76912104Df0bdFC37A67Ca.svg",
+      "name": "xRICE",
+      "symbol": "xRICE",
+      "comment": "LandX xToken"
+    },
+    {
+      "address": "0x1a37FAeC230811F499a62854F7A4ac9a9061d425",
+      "chainId": 80001,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "name": "LNDX",
+      "symbol": "LNDX",
+      "comment": "LandX xToken"
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
