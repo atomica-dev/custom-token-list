@@ -41836,7 +41836,7 @@
     },
     {
       "chainId": 42161,
-      "address": "0x722E8BdD2ce80A4422E880164f2079488e115365",
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "decimals": 18,
@@ -41917,7 +41917,7 @@
       "address": "0x8246Ee7c169061365a04671c5493daB6062D8808",
       "chainId": 42161,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x8246Ee7c169061365a04671c5493daB6062D8808.jpeg",
       "name": "xBasket LandX Index Fund",
       "symbol": "xBasket"
     },
