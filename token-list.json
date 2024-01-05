@@ -41928,6 +41928,14 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
       "name": "DeltaPrimeUSDCoin",
       "symbol": "DPUSDC.y"
+    },
+    {
+      "address": "0x16716e7F2eF5d58E252270592665e5F7127A017d",
+      "chainId": 42161,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "name": "USDC.d",
+      "symbol": "USDC.d"
     }
   ]
 }
