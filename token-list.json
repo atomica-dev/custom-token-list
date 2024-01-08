@@ -41920,22 +41920,6 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x8246Ee7c169061365a04671c5493daB6062D8808.jpeg",
       "name": "xBasket LandX Index Fund",
       "symbol": "xBasket"
-    },
-    {
-      "address": "0x9F816Ba84FBD8Bf2523dDdBb5B70FFbc0965aCA3",
-      "chainId": 42161,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
-      "name": "DeltaPrimeUSDCoin",
-      "symbol": "DPUSDC.y"
-    },
-    {
-      "address": "0x16716e7F2eF5d58E252270592665e5F7127A017d",
-      "chainId": 42161,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
-      "name": "USDC.d",
-      "symbol": "USDC.d"
     }
   ]
 }
