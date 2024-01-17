@@ -6,6 +6,7 @@
       "fullName": "Arbitrum One",
       "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/arbitrum.svg",
       "explorerUrl": "https://arbiscan.io/",
+      "nftUrlTemplate": "${explorerUrl}token/${contractAddress}?a=${tokenId}",
       "nativeCurrency": {
         "name": "ETH",
         "symbol": "ETH",
@@ -22,6 +23,7 @@
       "name": "Fantom Testnet",
       "fullName": "Fantom Testnet",
       "explorerUrl": "https://testnet.ftmscan.com/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
       "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/fantom.svg",
       "nativeCurrency": {
         "name": "Fantom",
@@ -40,6 +42,7 @@
       "name": "Avalanche",
       "fullName": "Avalanche C-Chain",
       "explorerUrl": "https://snowtrace.io/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
       "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/avalanche.svg",
       "nativeCurrency": {
         "name": "Avalanche",
@@ -58,6 +61,7 @@
       "fullName": "Avalanche Fuji Testnet",
       "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/avalanche.svg",
       "explorerUrl": "https://testnet.snowtrace.io/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
       "nativeCurrency": {
         "name": "AVAX",
         "symbol": "AVAX",
@@ -75,6 +79,7 @@
       "fullName": "Polygon zkEVM",
       "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/polygon.svg",
       "explorerUrl": "https://zkevm.polygonscan.com/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
       "nativeCurrency": {
         "name": "ETH",
         "symbol": "ETH",
@@ -94,6 +99,7 @@
       "fullName": "Polygon zkEVM Testnet",
       "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/polygon.svg",
       "explorerUrl": "https://testnet-zkevm.polygonscan.com/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
       "nativeCurrency": {
         "name": "ETH",
         "symbol": "ETH",
@@ -109,6 +115,7 @@
       "name": "Polygon",
       "fullName": "Polygon Mainnet",
       "explorerUrl": "https://polygonscan.com/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
       "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/polygon.svg",
       "nativeCurrency": {
         "name": "MATIC",
@@ -131,6 +138,7 @@
       "fullName": "Mumbai",
       "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/polygon.svg",
       "explorerUrl": "https://mumbai.polygonscan.com/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
       "nativeCurrency": {
         "name": "MATIC",
         "symbol": "MATIC",
@@ -150,6 +158,7 @@
       "fullName": "Sepolia",
       "logo": "https://sepolia.dev/wp-content/uploads/elementor/thumbs/the-dolphin-po0q7ezlhqqzvrfmzw0atih2l0vqelut73w4eh5qtc.png",
       "explorerUrl": "https://sepolia.etherscan.io/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
       "nativeCurrency": {
         "name": "ETH",
         "symbol": "ETH",
@@ -170,6 +179,7 @@
       "name": "Ethereum",
       "fullName": "Ethereum Mainnet",
       "explorerUrl": "https://etherscan.io/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
       "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/ethereum.svg",
       "nativeCurrency": {
         "name": "Ether",
@@ -189,6 +199,7 @@
       "name": "Goerli",
       "fullName": "Goerli",
       "explorerUrl": "https://goerli.etherscan.io/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
       "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/goerli.png",
       "nativeCurrency": {
         "name": "Goerli Ether",
@@ -206,6 +217,7 @@
       "name": "BSC",
       "fullName": "Binance Smart Chain Mainnet",
       "explorerUrl": "https://bscscan.com/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
       "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/bsc_2.svg",
       "nativeCurrency": {
         "name": "Binance Chain Native Token",
@@ -235,6 +247,7 @@
       "name": "Fantom",
       "fullName": "Fantom Opera",
       "explorerUrl": "https://ftmscan.com/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
       "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/fantom.svg",
       "nativeCurrency": {
         "name": "Fantom",
@@ -252,6 +265,7 @@
       "name": "Astar",
       "fullName": "Astar",
       "explorerUrl": "https://blockscout.com/astar/",
+      "nftUrlTemplate": "${explorerUrl}token/${contractAddress}/instance/${tokenId}",
       "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/astr.webp",
       "nativeCurrency": {
         "name": "Astar",
@@ -271,6 +285,7 @@
     "name": "",
     "fullName": "",
     "explorerUrl": "",
+    "nftUrlTemplate": "",
     "logo": "https://etherscan.io/images/main/empty-token.png"
   }
 }
