@@ -40265,6 +40265,15 @@
       "comment": "LandX xToken"
     },
     {
+      "address": "0xC9d46FA6CE6A51a93359b6159F495EF87Cf625F8",
+      "chainId": 80001,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC9d46FA6CE6A51a93359b6159F495EF87Cf625F8.png",
+      "name": "Hacken Token",
+      "symbol": "HAI",
+      "comment": "Hacken token"
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
