@@ -40274,6 +40274,14 @@
       "comment": "Hacken token"
     },
     {
+      "address": "0xA41A04c2d9cfEFCdA85e98B4fD1b15a5910fd1Be",
+      "chainId": 80001,
+      "decimals": 18,
+      "name": "SAVAX Token",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xA41A04c2d9cfEFCdA85e98B4fD1b15a5910fd1Be.png",
+      "symbol": "sAVAX"
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
