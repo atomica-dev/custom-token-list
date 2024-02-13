@@ -40282,6 +40282,22 @@
       "symbol": "sAVAX"
     },
     {
+      "address": "0x98F0DC59B046Ce8CDfFF2725367B9871545E771B",
+      "chainId": 80001,
+      "decimals": 18,
+      "name": "RFX",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x98F0DC59B046Ce8CDfFF2725367B9871545E771B.png",
+      "symbol": "RFX"
+    },
+    {
+      "address": "0xAC4EEd58375dB9D02D792c471D23450CCA0dB912",
+      "chainId": 80001,
+      "decimals": 18,
+      "name": "RFX-ETH LP",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xAC4EEd58375dB9D02D792c471D23450CCA0dB912.png",
+      "symbol": "RFX-ETH LP"
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
