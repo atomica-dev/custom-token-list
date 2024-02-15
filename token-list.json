@@ -40282,20 +40282,36 @@
       "symbol": "sAVAX"
     },
     {
-      "address": "0x98F0DC59B046Ce8CDfFF2725367B9871545E771B",
+      "address": "0x1BCBD60122B6b74D29b971aafF5467a3Ad6b02d2",
       "chainId": 80001,
-      "decimals": 18,
+      "decimals": 6,
       "name": "RFX",
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x98F0DC59B046Ce8CDfFF2725367B9871545E771B.jpg",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x1BCBD60122B6b74D29b971aafF5467a3Ad6b02d2.jpg",
       "symbol": "RFX"
     },
     {
       "address": "0xAC4EEd58375dB9D02D792c471D23450CCA0dB912",
       "chainId": 80001,
       "decimals": 18,
-      "name": "RFX-ETH LP",
+      "name": "SyncSwap RFX-ETH LP",
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xAC4EEd58375dB9D02D792c471D23450CCA0dB912.png",
-      "symbol": "RFX-ETH LP"
+      "symbol": "SyncSwap RFX-ETH LP"
+    },
+    {
+      "address": "0x9c67E83C7f91fd98afB9bEe904E073814dEa4913",
+      "chainId": 80001,
+      "decimals": 18,
+      "name": "SyncSwap RFX-USDT LP",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "symbol": "SyncSwap RFX-USDT LP"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x06A418BA535019E2EDF8fAa62A8DB1210f79f927",
+      "name": "Wrapped SOL (Wormhole)",
+      "symbol": "SOL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F.png"
     },
     {
       "name": "Wrapped Ether",
@@ -41953,6 +41969,38 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x8246Ee7c169061365a04671c5493daB6062D8808.jpeg",
       "name": "xBasket LandX Index Fund",
       "symbol": "xBasket"
+    },
+    {
+      "address": "0xaab1f70478E734e972cDcC108c42A7c8915f5606",
+      "chainId": 42161,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xaab1f70478E734e972cDcC108c42A7c8915f5606.svg",
+      "name": "xSOY",
+      "symbol": "xSOY"
+    },
+    {
+      "address": "0x2D8C8888FBFEa79f63dF39baFFf15E70CE4b66c5",
+      "chainId": 42161,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x2D8C8888FBFEa79f63dF39baFFf15E70CE4b66c5.svg",
+      "name": "xRICE",
+      "symbol": "xRICE"
+    },
+    {
+      "address": "0xBa5630d57A8DdEf4EB97b5659c2cb9191dBB4Cab",
+      "chainId": 42161,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xBa5630d57A8DdEf4EB97b5659c2cb9191dBB4Cab.svg",
+      "name": "xWHEAT",
+      "symbol": "xWHEAT"
+    },
+    {
+      "address": "0x2D09268E7a8271b41CdD3019D97a4980D8110BfA",
+      "chainId": 42161,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x2D09268E7a8271b41CdD3019D97a4980D8110BfA.svg",
+      "name": "xCORN",
+      "symbol": "xCORN"
     }
   ]
 }
