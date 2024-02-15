@@ -40099,6 +40099,14 @@
       "symbol": "USDC"
     },
     {
+      "address": "0xc4651FF5878c32c1c927E1309Edd4D7076ec8Dbe",
+      "chainId": 80001,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xc4651FF5878c32c1c927E1309Edd4D7076ec8Dbe.png",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    {
       "address": "0xe9DcE89B076BA6107Bb64EF30678efec11939234",
       "chainId": 80001,
       "decimals": 6,
