@@ -40322,6 +40322,60 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F.png"
     },
     {
+      "chainId": 80001,
+      "address": "0x4D670209604E6ea3deaDac041029B2A399b71A96",
+      "name": "vUSD",
+      "symbol": "vUSD",
+      "decimals": 18,
+      "comment": "",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0xc8876b3B14E241A27A5B2A036D77A36B1d9cAB63",
+      "name": "ROSE",
+      "symbol": "ROSE",
+      "decimals": 18,
+      "comment": "",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xc8876b3B14E241A27A5B2A036D77A36B1d9cAB63.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0xb0062a950eA9224e7145Ba5bB359a4d05f355404",
+      "name": "VINE",
+      "symbol": "VINE",
+      "decimals": 18,
+      "comment": "",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x1E017165072dd9a7acbf5F3970e674E736155c62",
+      "name": "VINE-USDC",
+      "symbol": "VINE-USDC",
+      "decimals": 18,
+      "comment": "",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x169d7CdeafCbA462E3bAB3097F31D613334C2E47",
+      "name": "ROSE-USDC",
+      "symbol": "ROSE-USDC",
+      "decimals": 18,
+      "comment": "",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0xC97fb3974D525Adbd875F995dE0eFe81f1D06903",
+      "name": "ROSE-ETH",
+      "symbol": "ROSE-ETH",
+      "decimals": 18,
+      "comment": "",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png"
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
