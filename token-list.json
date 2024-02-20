@@ -40295,7 +40295,8 @@
       "decimals": 6,
       "name": "RFX",
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x1BCBD60122B6b74D29b971aafF5467a3Ad6b02d2.jpg",
-      "symbol": "RFX"
+      "symbol": "RFX",
+      "fallbackRate": 43.10
     },
     {
       "address": "0xAC4EEd58375dB9D02D792c471D23450CCA0dB912",
@@ -40303,7 +40304,8 @@
       "decimals": 18,
       "name": "SyncSwap RFX-ETH LP",
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xAC4EEd58375dB9D02D792c471D23450CCA0dB912.png",
-      "symbol": "SyncSwap RFX-ETH LP"
+      "symbol": "SyncSwap RFX-ETH LP",
+      "fallbackRate": 10
     },
     {
       "address": "0x9c67E83C7f91fd98afB9bEe904E073814dEa4913",
@@ -40311,7 +40313,8 @@
       "decimals": 18,
       "name": "SyncSwap RFX-USDT LP",
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
-      "symbol": "SyncSwap RFX-USDT LP"
+      "symbol": "SyncSwap RFX-USDT LP",
+      "fallbackRate": 10
     },
     {
       "chainId": 80001,
@@ -40337,7 +40340,8 @@
       "symbol": "ROSE",
       "decimals": 18,
       "comment": "",
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xc8876b3B14E241A27A5B2A036D77A36B1d9cAB63.png"
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xc8876b3B14E241A27A5B2A036D77A36B1d9cAB63.png",
+      "fallbackRate": 0.12
     },
     {
       "chainId": 80001,
@@ -40346,7 +40350,8 @@
       "symbol": "VINE",
       "decimals": 18,
       "comment": "",
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "fallbackRate": 0.50
     },
     {
       "chainId": 80001,
@@ -40355,7 +40360,8 @@
       "symbol": "VINE-USDC",
       "decimals": 18,
       "comment": "",
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "fallbackRate": 1
     },
     {
       "chainId": 80001,
@@ -40364,7 +40370,8 @@
       "symbol": "ROSE-USDC",
       "decimals": 18,
       "comment": "",
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "fallbackRate": 1
     },
     {
       "chainId": 80001,
@@ -40373,7 +40380,8 @@
       "symbol": "ROSE-ETH",
       "decimals": 18,
       "comment": "",
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "fallbackRate": 2
     },
     {
       "name": "Wrapped Ether",
