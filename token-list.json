@@ -41819,7 +41819,7 @@
     {
       "address": "0x1",
       "chainId": 80001,
-      "name": "Test token",
+      "name": "Test Token",
       "symbol": "TTT",
       "decimals": 18,
       "logoURI": "https://logo"
