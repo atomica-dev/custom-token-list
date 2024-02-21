@@ -40920,6 +40920,24 @@
       "symbol": "xCORN"
     },
     {
+      "address": "0x0BeBEB5679115f143772CfD97359BBcc393d46b3",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "hhttps://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+      "name": "DeltaPrimeWrappedETH",
+      "symbol": "DPWETH",
+      "fallbackRate": 2945.35
+    },
+    {
+      "address": "0x8FE3842e0B7472a57f2A2D56cF6bCe08517A1De0",
+      "chainId": 42161,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
+      "name": "DeltaPrimeUSDCoin",
+      "symbol": "DPUSDC",
+      "fallbackRate": 1
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
