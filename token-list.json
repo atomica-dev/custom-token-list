@@ -41835,6 +41835,15 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png"
     },
     {
+      "address": "0xE5F47ccB0fB6fA1d56976E289C6Dc982E0B3706A",
+      "chainId": 80001,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x8246Ee7c169061365a04671c5493daB6062D8808.jpeg",
+      "name": "xBasket LandX Index Fund",
+      "symbol": "xBasket",
+      "fallbackRate": 3.5756
+    }
+    {
       "address": "0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A",
       "chainId": 11155111,
       "name": "Basic Attention Token",
