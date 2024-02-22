@@ -41844,14 +41844,6 @@
       "fallbackRate": 3.5756
     },
     {
-      "chainId": 80001,
-      "address": "0xtest",
-      "name": "test",
-      "symbol": "test4",
-      "decimals": 1,
-      "logoURI": ""
-    },
-    {
       "address": "0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A",
       "chainId": 11155111,
       "name": "Basic Attention Token",
