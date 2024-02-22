@@ -41847,7 +41847,7 @@
       "chainId": 80001,
       "address": "0xtest",
       "name": "test",
-      "symbol": "test",
+      "symbol": "test2",
       "decimals": 1,
       "logoURI": ""
     },
