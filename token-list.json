@@ -41853,14 +41853,6 @@
       "fallbackRate": 3.5756
     },
     {
-      "chainId": 80001,
-      "address": "0xtest",
-      "name": "Test token",
-      "symbol": "TST",
-      "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/80001-0xtest.svg"
-    },
-    {
       "address": "0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A",
       "chainId": 11155111,
       "name": "Basic Attention Token",
