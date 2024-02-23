@@ -41858,7 +41858,7 @@
       "name": "Test token",
       "symbol": "TST",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/80001-0xtest.png"
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/80001-0xtest.svg"
     },
     {
       "address": "0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A",
