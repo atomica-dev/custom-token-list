@@ -40885,7 +40885,8 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x8246Ee7c169061365a04671c5493daB6062D8808.jpeg",
       "name": "xBasket LandX Index Fund",
-      "symbol": "xBasket"
+      "symbol": "xBasket",
+      "fallbackRate": 3.5819
     },
     {
       "address": "0xaab1f70478E734e972cDcC108c42A7c8915f5606",
@@ -40893,7 +40894,8 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xaab1f70478E734e972cDcC108c42A7c8915f5606.svg",
       "name": "xSOY",
-      "symbol": "xSOY"
+      "symbol": "xSOY",
+      "fallbackRate": 5.5599
     },
     {
       "address": "0x2D8C8888FBFEa79f63dF39baFFf15E70CE4b66c5",
@@ -40901,7 +40903,8 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x2D8C8888FBFEa79f63dF39baFFf15E70CE4b66c5.svg",
       "name": "xRICE",
-      "symbol": "xRICE"
+      "symbol": "xRICE",
+      "fallbackRate": 3.8709
     },
     {
       "address": "0xBa5630d57A8DdEf4EB97b5659c2cb9191dBB4Cab",
@@ -40909,7 +40912,8 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xBa5630d57A8DdEf4EB97b5659c2cb9191dBB4Cab.svg",
       "name": "xWHEAT",
-      "symbol": "xWHEAT"
+      "symbol": "xWHEAT",
+      "fallbackRate": 2.6645
     },
     {
       "address": "0x2D09268E7a8271b41CdD3019D97a4980D8110BfA",
@@ -40917,7 +40921,8 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x2D09268E7a8271b41CdD3019D97a4980D8110BfA.svg",
       "name": "xCORN",
-      "symbol": "xCORN"
+      "symbol": "xCORN",
+      "fallbackRate": 1.9916
     },
     {
       "address": "0x0BeBEB5679115f143772CfD97359BBcc393d46b3",
@@ -41308,14 +41313,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
-      "name": "Benqi",
-      "symbol": "QI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5.png"
-    },
-    {
-      "chainId": 43114,
       "address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
       "name": "Compound",
       "symbol": "COMP.e",
@@ -41417,6 +41414,42 @@
       "symbol": "FRAX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64.png"
+    },
+    {
+      "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+      "chainId": 43114,
+      "name": "Benqi Finance: SAVAX Token",
+      "symbol": "sAVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE.png",
+      "fallbackRate": 41.76
+    },
+    {
+      "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+      "chainId": 43114,
+      "name": "Benqi Finance: QI Token",
+      "symbol": "QI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5.png",
+      "fallbackRate": 0.01678
+    },
+    {
+      "address": "0x2774516897AC629aD3ED9dCac7e375Dda78412b9",
+      "chainId": 43114,
+      "name": "Trader Joe: QI-WAVAX",
+      "symbol": "JLP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x2774516897AC629aD3ED9dCac7e375Dda78412b9.svg",
+      "fallbackRate": 0.01681
+    },
+    {
+      "address": "0xfD2620C9cfceC7D152467633B3B0Ca338D3d78cc",
+      "chainId": 43114,
+      "name": "Balancer s AVAX-WAVAX Stable Pool",
+      "symbol": "sAVAX-WAVAX-BPT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "fallbackRate": 41.75
     },
     {
       "address": "0xbA856E7a24536a4C26E2F7B85d9256d260852d53",
