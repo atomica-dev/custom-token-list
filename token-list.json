@@ -40938,6 +40938,33 @@
       "fallbackRate": 1
     },
     {
+      "address": "0x2B8C610F3fC6F883817637d15514293565C3d08A",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x912CE59144191C1204E64559FE8253a0e49E6548.png",
+      "name": "DeltaPrimeArbitrum",
+      "symbol": "DPARB",
+      "fallbackRate": 1.87
+    },
+    {
+      "address": "0x5CdE36c23f0909960BA4D6E8713257C6191f8C35",
+      "chainId": 42161,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x5CdE36c23f0909960BA4D6E8713257C6191f8C35.png",
+      "name": "DeltaPrimeBitcoin",
+      "symbol": "DPBTCb",
+      "fallbackRate": 51454.39
+    },
+    {
+      "address": "0xd5E8f691756c3d7b86FD8A89A06497D38D362540",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xd5E8f691756c3d7b86FD8A89A06497D38D362540.png",
+      "name": "DeltaPrimeDAIToken",
+      "symbol": "DPDAI",
+      "fallbackRate": 0.9996
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
