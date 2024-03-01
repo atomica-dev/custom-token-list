@@ -41932,6 +41932,16 @@
       "fallbackRate": "1"
     },
     {
+      "name": "TEST",
+      "address": "0x3342B8fe20028bB3E259b91E05B50a6feaFeCaEb",
+      "symbol": "TEST",
+      "decimals": 7,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889.png",
+      "fallbackRate": 8,
+      "comment": "Hello"
+    },
+    {
       "address": "0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A",
       "chainId": 11155111,
       "name": "Basic Attention Token",
