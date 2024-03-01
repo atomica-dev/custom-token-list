@@ -41938,7 +41938,7 @@
       "decimals": 7,
       "chainId": 80001,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/80001-0x3342B8fe20028bB3E259b91E05B50a6feaFeCaEb.svg",
-      "fallbackRate": 8,
+      "fallbackRate": 888,
       "comment": "Hello"
     },
     {
