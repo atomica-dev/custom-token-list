@@ -41452,6 +41452,15 @@
       "fallbackRate": 41.75
     },
     {
+      "address": "0xf9aE6D2D56f02304f72dcC61694eAD0dC8DB51f7",
+      "chainId": 43114,
+      "name": "sAVAX-WAVAX-BPT-gauge",
+      "symbol": "sAVAX-WAVAX-BPT-gauge",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "fallbackRate": 43.16984
+    },
+    {
       "address": "0xbA856E7a24536a4C26E2F7B85d9256d260852d53",
       "chainId": 80001,
       "name": "Basic Attention Token",
