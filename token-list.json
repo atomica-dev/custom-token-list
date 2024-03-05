@@ -41461,6 +41461,16 @@
       "fallbackRate": 43.16984
     },
     {
+      "chainId": 43114,
+      "address": "0x2323dAC85C6Ab9bd6a8B5Fb75B0581E31232d12b",
+      "name": "DeltaPrimeUSDCoin",
+      "symbol": "DPUSDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
+      "comment": "",
+      "fallbackRate": "1"
+    },
+    {
       "address": "0xbA856E7a24536a4C26E2F7B85d9256d260852d53",
       "chainId": 80001,
       "name": "Basic Attention Token",
