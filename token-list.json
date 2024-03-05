@@ -41462,13 +41462,13 @@
     },
     {
       "chainId": 43114,
-      "address": "0x2323dAC85C6Ab9bd6a8B5Fb75B0581E31232d12b",
-      "name": "DeltaPrimeUSDCoin",
-      "symbol": "DPUSDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
+      "address": "0xD26E504fc642B96751fD55D3E68AF295806542f5",
+      "name": "DeltaPrimeWrappedAVAX",
+      "symbol": "DPWAVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png",
       "comment": "",
-      "fallbackRate": "1"
+      "fallbackRate": "42.71"
     },
     {
       "address": "0xbA856E7a24536a4C26E2F7B85d9256d260852d53",
