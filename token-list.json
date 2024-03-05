@@ -41501,6 +41501,16 @@
       "fallbackRate": "1"
     },
     {
+      "chainId": 43114,
+      "address": "0xd222e10D7Fe6B7f9608F14A8B5Cf703c74eFBcA1",
+      "name": "DeltaPrimeTetherToken",
+      "symbol": "DPUSDt",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+      "comment": "",
+      "fallbackRate": "1"
+    },
+    {
       "address": "0xbA856E7a24536a4C26E2F7B85d9256d260852d53",
       "chainId": 80001,
       "name": "Basic Attention Token",
