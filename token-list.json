@@ -41481,6 +41481,16 @@
       "fallbackRate": "68106.51"
     },
     {
+      "chainId": 43114,
+      "address": "0xD7fEB276ba254cD9b34804A986CE9a8C3E359148",
+      "name": "DeltaPrimeWrappedEther",
+      "symbol": "DPWETHe",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xd047C4Df33085C61C067f2595e77b6eB8FcAC763.png",
+      "comment": "",
+      "fallbackRate": "3791"
+    },
+    {
       "address": "0xbA856E7a24536a4C26E2F7B85d9256d260852d53",
       "chainId": 80001,
       "name": "Basic Attention Token",
