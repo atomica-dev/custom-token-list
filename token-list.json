@@ -41974,6 +41974,16 @@
       "fallbackRate": "1"
     },
     {
+      "chainId": 80001,
+      "address": "0xd16Eb98d2c7dDDfD08283822f30567d883f2c5CD",
+      "name": "Filecoin",
+      "symbol": "FIL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xd16Eb98d2c7dDDfD08283822f30567d883f2c5CD.png",
+      "comment": "",
+      "fallbackRate": ""
+    },
+    {
       "address": "0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A",
       "chainId": 11155111,
       "name": "Basic Attention Token",
