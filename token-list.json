@@ -41759,14 +41759,6 @@
       "symbol": "crv3crypto"
     },
     {
-      "address": "0xd16Eb98d2c7dDDfD08283822f30567d883f2c5CD",
-      "chainId": 80001,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xd16Eb98d2c7dDDfD08283822f30567d883f2c5CD.png",
-      "name": "Filecoin",
-      "symbol": "FIL"
-    },
-    {
       "address": "0xc33CAE353B7951Ae4b29234b6698a27930A9680F",
       "chainId": 80001,
       "decimals": 18,
