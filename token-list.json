@@ -12195,7 +12195,7 @@
     {
       "chainId": 1,
       "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
-      "name": "Curve DAO Token",
+      "name": "Curve DAO",
       "symbol": "CRV",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xd533a949740bb3306d119cc777fa900ba034cd52.png"
@@ -39601,7 +39601,7 @@
       "chainId": 5,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png",
-      "name": "Curve",
+      "name": "Curve DAO",
       "symbol": "CRV"
     },
     {
@@ -39955,7 +39955,7 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c.png"
     },
     {
-      "name": "Curve DAO Token",
+      "name": "Curve DAO",
       "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
       "symbol": "CRV",
       "decimals": 18,
@@ -40213,7 +40213,7 @@
     {
       "chainId": 1101,
       "address": "0x3d5320821bfca19fb0b5428f2c79d63bd5246f89",
-      "name": "Curve DAO Token",
+      "name": "Curve DAO",
       "symbol": "CRV",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x172370d5Cd63279eFa6d502DAB29171933a610AF.png"
@@ -40319,7 +40319,7 @@
       "chainId": 1442,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png",
-      "name": "Curve",
+      "name": "Curve DAO",
       "symbol": "CRV"
     },
     {
@@ -40636,7 +40636,7 @@
     {
       "address": "0x643a71D29DAC7795888e50162F4479D987CA5aCd",
       "chainId": 4002,
-      "name": "Curve",
+      "name": "Curve DAO",
       "symbol": "CRV",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png"
@@ -40982,7 +40982,7 @@
       "chainId": 43113,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png",
-      "name": "Curve",
+      "name": "Curve DAO",
       "symbol": "CRV"
     },
     {
@@ -41418,7 +41418,7 @@
     {
       "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
       "chainId": 43114,
-      "name": "Benqi Finance: SAVAX Token",
+      "name": "BENQI Liquid Staked AVAX",
       "symbol": "sAVAX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE.png",
@@ -41539,7 +41539,7 @@
       "chainId": 80001,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png",
-      "name": "Curve",
+      "name": "Curve DAO",
       "symbol": "CRV"
     },
     {
@@ -41864,7 +41864,7 @@
       "address": "0xA41A04c2d9cfEFCdA85e98B4fD1b15a5910fd1Be",
       "chainId": 80001,
       "decimals": 18,
-      "name": "SAVAX Token",
+      "name": "BENQI Liquid Staked AVAX",
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xA41A04c2d9cfEFCdA85e98B4fD1b15a5910fd1Be.png",
       "symbol": "sAVAX"
     },
@@ -42000,7 +42000,7 @@
     {
       "address": "0xd7d947643776C825Bd12B2E251d552202823c284",
       "chainId": 11155111,
-      "name": "Curve",
+      "name": "Curve DAO",
       "symbol": "CRV",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png"
