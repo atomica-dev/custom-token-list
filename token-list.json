@@ -41540,7 +41540,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png",
       "name": "Curve DAO",
-      "symbol": "CRV"
+      "symbol": "CRV",
+      "comment": "1"
     },
     {
       "address": "0x20B215763F7dA48696a0A373169a26b600b0DBF4",
