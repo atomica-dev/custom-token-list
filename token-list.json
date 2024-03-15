@@ -41542,7 +41542,7 @@
       "chainId": 80001,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png",
       "comment": "1",
-      "rateConfig": "coingecko:bitcoin",
+      "rateConfig": "terminal:1:0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "fallbackRate": 0
     },
     {
