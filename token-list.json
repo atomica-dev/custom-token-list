@@ -41535,13 +41535,15 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889.png"
     },
     {
-      "address": "0xc403A5aE748Be7d746fE4496B8Fb9BBDF2009A7E",
-      "chainId": 80001,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png",
       "name": "Curve DAO",
+      "address": "0xc403A5aE748Be7d746fE4496B8Fb9BBDF2009A7E",
       "symbol": "CRV",
-      "comment": "1"
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png",
+      "comment": "1",
+      "rateConfig": "coingecko:bitcoin",
+      "fallbackRate": 0
     },
     {
       "address": "0x20B215763F7dA48696a0A373169a26b600b0DBF4",
