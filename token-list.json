@@ -41434,15 +41434,6 @@
       "fallbackRate": 0.01678
     },
     {
-      "address": "0x2774516897AC629aD3ED9dCac7e375Dda78412b9",
-      "chainId": 43114,
-      "name": "Trader Joe: QI-WAVAX",
-      "symbol": "JLP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x2774516897AC629aD3ED9dCac7e375Dda78412b9.svg",
-      "fallbackRate": 0.01681
-    },
-    {
       "address": "0xf9aE6D2D56f02304f72dcC61694eAD0dC8DB51f7",
       "chainId": 43114,
       "name": "sAVAX-WAVAX-BPT-gauge",
