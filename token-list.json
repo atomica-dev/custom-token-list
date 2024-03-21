@@ -41493,6 +41493,16 @@
       "fallbackRate": "1"
     },
     {
+      "chainId": 43114,
+      "address": "0x2774516897ac629ad3ed9dcac7e375dda78412b9",
+      "name": "Trader Joe: QI-WAVAX (JLP)",
+      "symbol": "QI-WAVAX (JLP)",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/43114-0x2774516897ac629ad3ed9dcac7e375dda78412b9.svg",
+      "comment": "QI-WAVAX (JLP) https://snowtrace.dev/address/0x2774516897ac629ad3ed9dcac7e375dda78412b9",
+      "fallbackRate": ""
+    },
+    {
       "address": "0xbA856E7a24536a4C26E2F7B85d9256d260852d53",
       "chainId": 80001,
       "name": "Basic Attention Token",
