@@ -41443,15 +41443,6 @@
       "fallbackRate": 0.01681
     },
     {
-      "address": "0xfD2620C9cfceC7D152467633B3B0Ca338D3d78cc",
-      "chainId": 43114,
-      "name": "Balancer s AVAX-WAVAX Stable Pool",
-      "symbol": "sAVAX-WAVAX-BPT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
-      "fallbackRate": 41.75
-    },
-    {
       "address": "0xf9aE6D2D56f02304f72dcC61694eAD0dC8DB51f7",
       "chainId": 43114,
       "name": "sAVAX-WAVAX-BPT-gauge",
