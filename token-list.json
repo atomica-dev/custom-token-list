@@ -41498,9 +41498,9 @@
       "name": "Trader Joe: QI-WAVAX (JLP)",
       "symbol": "QI-WAVAX (JLP)",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/43114-0x2774516897ac629ad3ed9dcac7e375dda78412b9.svg",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC99A9B3111f132683451DCC239AD5aA8A9834230.png",
       "comment": "QI-WAVAX (JLP) https://snowtrace.dev/address/0x2774516897ac629ad3ed9dcac7e375dda78412b9",
-      "fallbackRate": ""
+      "fallbackRate": "4.93522668530403"
     },
     {
       "address": "0xbA856E7a24536a4C26E2F7B85d9256d260852d53",
