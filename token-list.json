@@ -41877,7 +41877,7 @@
       "address": "0x9c67E83C7f91fd98afB9bEe904E073814dEa4913",
       "chainId": 80001,
       "decimals": 18,
-      "name": "1 SyncSwap RFX-USDT LP",
+      "name": "SyncSwap RFX-USDT LP 1",
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
       "symbol": "1 SyncSwap RFX-USDT LP",
       "fallbackRate": "10"
