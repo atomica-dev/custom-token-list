@@ -41868,10 +41868,10 @@
       "address": "0xAC4EEd58375dB9D02D792c471D23450CCA0dB912",
       "chainId": 80001,
       "decimals": 18,
-      "name": "SyncSwap RFX-ETH LP",
+      "name": "SyncSwap RFX-ETH LP2",
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xAC4EEd58375dB9D02D792c471D23450CCA0dB912.png",
-      "symbol": "SyncSwap RFX-ETH LP",
-      "fallbackRate": 10
+      "symbol": "2SyncSwap RFX-ETH LP",
+      "fallbackRate": "10"
     },
     {
       "address": "0x9c67E83C7f91fd98afB9bEe904E073814dEa4913",
