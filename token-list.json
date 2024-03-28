@@ -41527,15 +41527,22 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889.png"
     },
     {
-      "name": "Curve DAO",
+      "chainId": 80001,
       "address": "0xc403A5aE748Be7d746fE4496B8Fb9BBDF2009A7E",
+      "name": "Curve DAO",
       "symbol": "CRV",
       "decimals": 18,
-      "chainId": 80001,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png",
       "comment": "1",
-      "rateConfig": "terminal:1:0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-      "fallbackRate": 0
+      "fallbackRate": 0,
+      "rateConfigType": {
+        "label": "Unset",
+        "value": "unset"
+      },
+      "coinId": "",
+      "targetChainId": "1",
+      "targetAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "rateConfig": "terminal:1:0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
     },
     {
       "address": "0x20B215763F7dA48696a0A373169a26b600b0DBF4",
