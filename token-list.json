@@ -41868,9 +41868,9 @@
       "address": "0xAC4EEd58375dB9D02D792c471D23450CCA0dB912",
       "chainId": 80001,
       "decimals": 18,
-      "name": "SyncSwap RFX-ETH LP",
+      "name": "SyncSwap RFX-ETH LP1",
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xAC4EEd58375dB9D02D792c471D23450CCA0dB912.png",
-      "symbol": "SyncSwap RFX-ETH LP",
+      "symbol": "1SyncSwap RFX-ETH LP",
       "fallbackRate": "10"
     },
     {
@@ -42226,6 +42226,5 @@
       "name": "Curve.fi USD-BTC-ETH",
       "symbol": "crv3crypto"
     }
-  ],
-  "timestamp": 1711454104016
+  ]
 }
