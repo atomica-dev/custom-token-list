@@ -41436,11 +41436,12 @@
     {
       "address": "0xf9aE6D2D56f02304f72dcC61694eAD0dC8DB51f7",
       "chainId": 43114,
-      "name": "sAVAX-WAVAX-BPT-gauge",
-      "symbol": "sAVAX-WAVAX-BPT-gauge",
+      "name": "sAVAX-WAVAX (BPT)",
+      "symbol": "sAVAX-WAVAX (BPT)",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
-      "fallbackRate": 43.16984
+      "logoURI": "https://cryptologos.cc/logos/balancer-bal-logo.svg?v=029",
+      "fallbackRate": "43.16984",
+      "comment": "Balancer sAVAX-WAVAX (BPT)"
     },
     {
       "chainId": 43114,
