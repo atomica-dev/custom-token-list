@@ -41504,12 +41504,15 @@
       "fallbackRate": "4.7286"
     },
     {
-      "address": "0xbA856E7a24536a4C26E2F7B85d9256d260852d53",
-      "chainId": 80001,
       "name": "Basic Attention Token",
+      "address": "0xbA856E7a24536a4C26E2F7B85d9256d260852d53",
       "symbol": "BAT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x482dC9bB08111CB875109B075A40881E48aE02Cd.svg"
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x482dC9bB08111CB875109B075A40881E48aE02Cd.svg",
+      "comment": "",
+      "rateConfig": "terminal-pool:1:0xfe73b3045f1169d092ab622dbf317febd97f4fb8",
+      "fallbackRate": 0
     },
     {
       "name": "Wrapped Ether",
