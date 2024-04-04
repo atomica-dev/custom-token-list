@@ -41983,6 +41983,16 @@
       "fallbackRate": ""
     },
     {
+      "chainId": 80001,
+      "address": "0xaE62a35e7B8575b45b8a1A86Dd416bF5A6D94015",
+      "name": "HAI-USDC (BLP)",
+      "symbol": "HAI-USDC (BLP)",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/80001-0xaE62a35e7B8575b45b8a1A86Dd416bF5A6D94015.png",
+      "comment": "",
+      "fallbackRate": "1"
+    },
+    {
       "address": "0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A",
       "chainId": 11155111,
       "name": "Basic Attention Token",
