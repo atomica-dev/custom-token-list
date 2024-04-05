@@ -41814,7 +41814,7 @@
       "chainId": 80001,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xEf43C29ccF8C741aA33a6E2FE943A36409d7739D.svg",
       "comment": "LandX xToken",
-      "rateConfig": "terminal-pool:80001:https://www.geckoterminal.com/eth/pools/0xe819013997b4186e1813590c51837edb491001dc",
+      "rateConfig": "terminal-pool:1:0xe819013997b4186e1813590c51837edb491001dc",
       "fallbackRate": 0
     },
     {
