@@ -41538,7 +41538,7 @@
       "chainId": 80001,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png",
       "comment": "1",
-      "rateConfig": "terminal:1:0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+      "rateConfig": "terminal-pool:1:0xa1bf0e900fb272089c9fd299ea14bfccb1d1c2c0",
       "fallbackRate": 0
     },
     {
