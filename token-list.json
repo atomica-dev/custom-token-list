@@ -41726,12 +41726,15 @@
       "symbol": "WBTC"
     },
     {
-      "address": "0x21F86113c57061bd5c5ee8953322b712b7911e11",
-      "chainId": 80001,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
       "name": "WETH-USDC Uniswap v2",
-      "symbol": "WETH-USDC Uniswap v2"
+      "address": "0x21F86113c57061bd5c5ee8953322b712b7911e11",
+      "symbol": "WETH-USDC Uniswap v2",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "comment": "",
+      "rateConfig": "terminal-pool:1:0xa1bf0e900fb272089c9fd299ea14bfccb1d1c2c0",
+      "fallbackRate": 0
     },
     {
       "address": "0x0B7d69F6Ab6A3f479476c2a18Ad77373eD7B016a",
