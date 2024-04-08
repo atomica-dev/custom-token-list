@@ -41865,12 +41865,14 @@
       "symbol": "sAVAX"
     },
     {
-      "address": "0x1BCBD60122B6b74D29b971aafF5467a3Ad6b02d2",
-      "chainId": 80001,
-      "decimals": 6,
       "name": "RFX",
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x1BCBD60122B6b74D29b971aafF5467a3Ad6b02d2.jpg",
+      "address": "0x1BCBD60122B6b74D29b971aafF5467a3Ad6b02d2",
       "symbol": "RFX",
+      "decimals": 6,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x1BCBD60122B6b74D29b971aafF5467a3Ad6b02d2.jpg",
+      "comment": "",
+      "rateConfig": "terminal-pool:1:0xa1bf0e900fb272089c9fd299ea14bfccb1d1c2c0",
       "fallbackRate": 43.1
     },
     {
