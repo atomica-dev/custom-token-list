@@ -42000,6 +42000,16 @@
       "fallbackRate": "1"
     },
     {
+      "chainId": 80001,
+      "address": "0x945fF747251cA990C3848b8368355BeA370F8157",
+      "name": "BLB Blueberry Governance Token",
+      "symbol": "BLB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35312/standard/Blueberry_Logo.png?1708159808",
+      "comment": "",
+      "fallbackRate": ""
+    },
+    {
       "address": "0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A",
       "chainId": 11155111,
       "name": "Basic Attention Token",
