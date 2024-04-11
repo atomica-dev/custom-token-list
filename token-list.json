@@ -42020,6 +42020,16 @@
       "fallbackRate": ""
     },
     {
+      "chainId": 80001,
+      "address": "0xE4a03814DF1F2c05E0408D6Cc7bBaa7f3f917EF6",
+      "name": "Blueberry bDAI",
+      "symbol": "bDAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "comment": "",
+      "fallbackRate": ""
+    },
+    {
       "address": "0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A",
       "chainId": 11155111,
       "name": "Basic Attention Token",
