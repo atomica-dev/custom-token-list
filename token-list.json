@@ -42050,6 +42050,16 @@
       "fallbackRate": ""
     },
     {
+      "chainId": 80001,
+      "address": "0xCE1103dAe9EFA9fe3cb92AcBFB888cD6305Ec640",
+      "name": "Blueberry bCRV",
+      "symbol": "bCRV",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "comment": "",
+      "fallbackRate": ""
+    },
+    {
       "address": "0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A",
       "chainId": 11155111,
       "name": "Basic Attention Token",
