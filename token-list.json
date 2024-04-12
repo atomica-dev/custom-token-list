@@ -42060,13 +42060,15 @@
       "fallbackRate": ""
     },
     {
-      "chainId": 11155111,
-      "address": "0x7647562C86172fA2F7462Ac5A69A0555Dbc4762A",
       "name": "USD Coin",
+      "address": "0x7647562C86172fA2F7462Ac5A69A0555Dbc4762A",
       "symbol": "USDC",
-      "decimals": "6",
+      "decimals": 6,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
       "comment": "",
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png"
+      "rateConfig": "",
+      "fallbackRate": 0
     },
     {
       "chainId": 11155111,
