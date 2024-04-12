@@ -42064,7 +42064,7 @@
       "address": "0x7647562C86172fA2F7462Ac5A69A0555Dbc4762A",
       "name": "USD Coin",
       "symbol": "USDC",
-      "decimals": "6",
+      "decimals": 6,
       "comment": "",
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png"
     },
@@ -42082,7 +42082,7 @@
       "address": "0x1B0003035aaA3F2D26C49a8e538be1f79012B03c",
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
-      "decimals": "8",
+      "decimals": 8,
       "comment": "",
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x46960beB2e1ECD7CbDe8C43407c24893B6Fd921A.png"
     },
@@ -42136,7 +42136,7 @@
       "address": "0xB6ca686Cf675fD52Fb462c7763Dfe23c4505929d",
       "name": "IOY",
       "symbol": "IOY",
-      "decimals": "6",
+      "decimals": 6,
       "comment": "",
       "logoURI": ""
     },
