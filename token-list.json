@@ -42080,13 +42080,15 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png"
     },
     {
-      "chainId": 11155111,
-      "address": "0x1B0003035aaA3F2D26C49a8e538be1f79012B03c",
       "name": "Wrapped Bitcoin",
+      "address": "0x1B0003035aaA3F2D26C49a8e538be1f79012B03c",
       "symbol": "WBTC",
-      "decimals": "8",
+      "decimals": 8,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x46960beB2e1ECD7CbDe8C43407c24893B6Fd921A.png",
       "comment": "",
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x46960beB2e1ECD7CbDe8C43407c24893B6Fd921A.png"
+      "rateConfig": "",
+      "fallbackRate": 0
     },
     {
       "chainId": 11155111,
