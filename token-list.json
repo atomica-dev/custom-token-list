@@ -42136,13 +42136,15 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png"
     },
     {
-      "chainId": 11155111,
-      "address": "0xB6ca686Cf675fD52Fb462c7763Dfe23c4505929d",
       "name": "IOY",
+      "address": "0xB6ca686Cf675fD52Fb462c7763Dfe23c4505929d",
       "symbol": "IOY",
-      "decimals": "6",
+      "decimals": 6,
+      "chainId": 11155111,
+      "logoURI": "",
       "comment": "",
-      "logoURI": ""
+      "rateConfig": "",
+      "fallbackRate": 0
     },
     {
       "address": "0xf1BDBB57FAf1530eE08C488eCa791cc528E596CE",
