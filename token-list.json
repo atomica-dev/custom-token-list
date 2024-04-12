@@ -42197,12 +42197,15 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889.png"
     },
     {
+      "name": "Curve DAO",
       "address": "0xaFC9E3DB270A198f772A7843125687Dd73be01be",
-      "chainId": 11155111,
+      "symbol": "CRV",
       "decimals": 18,
+      "chainId": 11155111,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png",
-      "name": "Curve",
-      "symbol": "CRV"
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     },
     {
       "address": "0x5d573a0430d02a52BBEa6177e20Cf653ea304781",
