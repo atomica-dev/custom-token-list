@@ -42554,14 +42554,15 @@
       "fallbackRate": 1
     },
     {
-      "address": "0x3Fa188b01F058736C731C199181bb6372D49cb4f",
-      "chainId": 11155111,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
       "name": "Blueberry bDAI",
+      "address": "0x3Fa188b01F058736C731C199181bb6372D49cb4f",
       "symbol": "bDAI",
-      "rates": [],
-      "fallbackRate": ""
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 1
     },
     {
       "address": "0x0D7f3ee6E03be4E12DBD7Ef2D7eC2dd8211f072b",
