@@ -42532,14 +42532,15 @@
       "fallbackRate": 3.5756
     },
     {
-      "address": "0xd3b13B9398b499Ac8594F1977bdcC041AD443840",
-      "chainId": 11155111,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35312/standard/Blueberry_Logo.png?1708159808",
       "name": "BLB Governance token",
+      "address": "0xd3b13B9398b499Ac8594F1977bdcC041AD443840",
       "symbol": "BLB",
-      "rates": [],
-      "fallbackRate": ""
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/35312/standard/Blueberry_Logo.png?1708159808",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 1
     },
     {
       "address": "0xB928c7ACB2CEc2382eE7F3baD4C33ea585a24a43",
