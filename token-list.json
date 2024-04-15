@@ -42565,14 +42565,15 @@
       "fallbackRate": 1
     },
     {
-      "address": "0x0D7f3ee6E03be4E12DBD7Ef2D7eC2dd8211f072b",
-      "chainId": 11155111,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
       "name": "Blueberry bWBTC ",
+      "address": "0x0D7f3ee6E03be4E12DBD7Ef2D7eC2dd8211f072b",
       "symbol": "bWBTC ",
-      "rates": [],
-      "fallbackRate": ""
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 1
     },
     {
       "address": "0x27b942c75F826C769A5f14a802D49c782BC4245E",
