@@ -42543,14 +42543,15 @@
       "fallbackRate": 1
     },
     {
-      "address": "0xB928c7ACB2CEc2382eE7F3baD4C33ea585a24a43",
-      "chainId": 11155111,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
       "name": "Blueberry bWETH",
+      "address": "0xB928c7ACB2CEc2382eE7F3baD4C33ea585a24a43",
       "symbol": "bWETH",
-      "rates": [],
-      "fallbackRate": ""
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 1
     },
     {
       "address": "0x3Fa188b01F058736C731C199181bb6372D49cb4f",
