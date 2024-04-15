@@ -42576,14 +42576,15 @@
       "fallbackRate": 1
     },
     {
-      "address": "0x27b942c75F826C769A5f14a802D49c782BC4245E",
-      "chainId": 11155111,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
       "name": "Blueberry bBAL",
+      "address": "0x27b942c75F826C769A5f14a802D49c782BC4245E",
       "symbol": "bBAL",
-      "rates": [],
-      "fallbackRate": ""
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 1
     },
     {
       "address": "0x0e957B74C50a576d0a0D602c4986ebA61ca506e5",
