@@ -42595,7 +42595,7 @@
       "symbol": "bCRV",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "logoURI": "https://cryptologos.cc/logos/curve-dao-token-crv-logo.svg?v=031",
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 1
