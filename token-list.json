@@ -42171,12 +42171,15 @@
       "symbol": "SyncSwap RFX-USDT LP"
     },
     {
-      "chainId": 11155111,
-      "address": "0xf4f4F6d215ecB761dd268524E632f81F546e6691",
       "name": "Wrapped SOL (Wormhole)",
+      "address": "0xf4f4F6d215ecB761dd268524E632f81F546e6691",
       "symbol": "SOL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F.png"
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F.png",
+      "comment": "",
+      "rateConfig": "terminal-pool:43114:0xe1d6e5d08e2840ceb272652e21ba9b90adfbd50f",
+      "fallbackRate": 0
     },
     {
       "address": "0x425C2Ff90a7D347dfA6D159aC94e6FaA388B6499",
