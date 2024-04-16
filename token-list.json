@@ -42575,8 +42575,8 @@
       "chainId": 11155111,
       "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.svg?v=031",
       "comment": "",
-      "rateConfig": "",
-      "fallbackRate": 1
+      "rateConfig": "coingecko:wrapped-bitcoin",
+      "fallbackRate": 0
     },
     {
       "name": "Blueberry bBAL",
