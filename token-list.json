@@ -42599,6 +42599,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0.4193
+    },
+    {
+      "name": "Hydro",
+      "address": "0xde5480f734555a512e226abd3f7197dd3861c63c",
+      "symbol": "Hydro",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
