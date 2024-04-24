@@ -40922,12 +40922,14 @@
       "fallbackRate": 2.6645
     },
     {
-      "address": "0x2D09268E7a8271b41CdD3019D97a4980D8110BfA",
-      "chainId": 42161,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x2D09268E7a8271b41CdD3019D97a4980D8110BfA.svg",
       "name": "xCORN",
+      "address": "0x2D09268E7a8271b41CdD3019D97a4980D8110BfA",
       "symbol": "xCORN",
+      "decimals": 6,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x2D09268E7a8271b41CdD3019D97a4980D8110BfA.svg",
+      "comment": "",
+      "rateConfig": "terminal-pool:42161:0xbf7751b64bdfc6229ecbc81fd18f88f8d0c6787e",
       "fallbackRate": 1.9916
     },
     {
