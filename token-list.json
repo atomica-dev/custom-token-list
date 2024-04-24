@@ -40889,12 +40889,14 @@
       "fallbackRate": 3.5819
     },
     {
-      "address": "0xaab1f70478E734e972cDcC108c42A7c8915f5606",
-      "chainId": 42161,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xaab1f70478E734e972cDcC108c42A7c8915f5606.svg",
       "name": "xSOY",
+      "address": "0xaab1f70478E734e972cDcC108c42A7c8915f5606",
       "symbol": "xSOY",
+      "decimals": 6,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xaab1f70478E734e972cDcC108c42A7c8915f5606.svg",
+      "comment": "Landx xSOY",
+      "rateConfig": "terminal-pool:42161:0xfe73b3045f1169d092ab622dbf317febd97f4fb8",
       "fallbackRate": 5.5599
     },
     {
