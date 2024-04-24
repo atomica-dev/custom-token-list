@@ -40911,12 +40911,14 @@
       "fallbackRate": 3.8709
     },
     {
-      "address": "0xBa5630d57A8DdEf4EB97b5659c2cb9191dBB4Cab",
-      "chainId": 42161,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xBa5630d57A8DdEf4EB97b5659c2cb9191dBB4Cab.svg",
       "name": "xWHEAT",
+      "address": "0xBa5630d57A8DdEf4EB97b5659c2cb9191dBB4Cab",
       "symbol": "xWHEAT",
+      "decimals": 6,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xBa5630d57A8DdEf4EB97b5659c2cb9191dBB4Cab.svg",
+      "comment": "",
+      "rateConfig": "terminal-pool:42161:0x6ded80c172cf911ddb1900edf16737bade000106",
       "fallbackRate": 2.6645
     },
     {
