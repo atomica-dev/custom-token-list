@@ -40900,12 +40900,14 @@
       "fallbackRate": 5.5599
     },
     {
-      "address": "0x2D8C8888FBFEa79f63dF39baFFf15E70CE4b66c5",
-      "chainId": 42161,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x2D8C8888FBFEa79f63dF39baFFf15E70CE4b66c5.svg",
       "name": "xRICE",
+      "address": "0x2D8C8888FBFEa79f63dF39baFFf15E70CE4b66c5",
       "symbol": "xRICE",
+      "decimals": 6,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x2D8C8888FBFEa79f63dF39baFFf15E70CE4b66c5.svg",
+      "comment": "LandX xRICE",
+      "rateConfig": "terminal-pool:42161:0xf516bf89618e623f581a9a8a9396523a3a80adec",
       "fallbackRate": 3.8709
     },
     {
