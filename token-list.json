@@ -40880,12 +40880,14 @@
       "symbol": "BIFI"
     },
     {
-      "address": "0x8246Ee7c169061365a04671c5493daB6062D8808",
-      "chainId": 42161,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x8246Ee7c169061365a04671c5493daB6062D8808.jpeg",
       "name": "xBasket LandX Index Fund",
+      "address": "0x8246Ee7c169061365a04671c5493daB6062D8808",
       "symbol": "xBasket",
+      "decimals": 6,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x8246Ee7c169061365a04671c5493daB6062D8808.jpeg",
+      "comment": "LandX xBasket",
+      "rateConfig": "terminal-pool:42161:0xbb2e0b289a8f349554c0a95b6875a3feff80dbdc",
       "fallbackRate": 3.5819
     },
     {
