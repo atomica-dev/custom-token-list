@@ -42620,6 +42620,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "wHAI",
+      "address": "0xBa2c5036761442cdFAC6AbD58E8A31BDBC3E5791",
+      "symbol": "wHAI",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "Hacken wrapped HAI",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
