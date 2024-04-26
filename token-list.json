@@ -42629,7 +42629,7 @@
       "chainId": 11155111,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC9d46FA6CE6A51a93359b6159F495EF87Cf625F8.png",
       "comment": "Hacken wrapped HAI",
-      "rateConfig": "coingecko:HAI",
+      "rateConfig": "coingecko:hackenai",
       "fallbackRate": 0
     }
   ]
