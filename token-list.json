@@ -42519,13 +42519,15 @@
       "comment": "LandX xToken"
     },
     {
-      "address": "0xec6AAb5A94Dc211f5036ddB387A253cAe69274C8",
-      "chainId": 11155111,
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC9d46FA6CE6A51a93359b6159F495EF87Cf625F8.png",
       "name": "Hacken Token",
+      "address": "0xec6AAb5A94Dc211f5036ddB387A253cAe69274C8",
       "symbol": "HAI",
-      "comment": "Hacken token"
+      "decimals": 8,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC9d46FA6CE6A51a93359b6159F495EF87Cf625F8.png",
+      "comment": "Hacken token",
+      "rateConfig": "coingecko:hackenai",
+      "fallbackRate": 0
     },
     {
       "address": "0xd9524c2c06c330dA0c9d63E26527f9523902Df29",
