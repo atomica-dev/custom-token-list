@@ -42627,9 +42627,9 @@
       "symbol": "wHAI",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC9d46FA6CE6A51a93359b6159F495EF87Cf625F8.png",
       "comment": "Hacken wrapped HAI",
-      "rateConfig": "",
+      "rateConfig": "coingecko:HAI",
       "fallbackRate": 0
     }
   ]
