@@ -41426,13 +41426,15 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64.png"
     },
     {
-      "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
-      "chainId": 43114,
       "name": "BENQI Liquid Staked AVAX",
+      "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
       "symbol": "sAVAX",
       "decimals": 18,
+      "chainId": 43114,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE.png",
-      "fallbackRate": 41.76
+      "comment": "",
+      "rateConfig": "coingecko:benqi-liquid-staked-avax",
+      "fallbackRate": 38.79
     },
     {
       "name": "Benqi Finance: QI Token",
