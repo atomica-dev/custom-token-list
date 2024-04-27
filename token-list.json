@@ -41435,13 +41435,15 @@
       "fallbackRate": 41.76
     },
     {
-      "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
-      "chainId": 43114,
       "name": "Benqi Finance: QI Token",
+      "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
       "symbol": "QI",
       "decimals": 18,
+      "chainId": 43114,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5.png",
-      "fallbackRate": 0.01678
+      "comment": "Benqi QI token",
+      "rateConfig": "coingecko:benqi",
+      "fallbackRate": 0.01556
     },
     {
       "address": "0xf9aE6D2D56f02304f72dcC61694eAD0dC8DB51f7",
