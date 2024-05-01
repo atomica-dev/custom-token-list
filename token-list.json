@@ -42637,6 +42637,17 @@
       "comment": "Hacken wrapped HAI",
       "rateConfig": "coingecko:hackenai",
       "fallbackRate": 0
+    },
+    {
+      "name": "BLB-ETH LP Token",
+      "address": "0x6A2b087903dD1B80B04bEa0dA2a47FF666BF03a8",
+      "symbol": "BLB-ETH LP",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
