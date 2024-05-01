@@ -42655,7 +42655,7 @@
       "symbol": "BLB-USDT LP",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
