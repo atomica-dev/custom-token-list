@@ -42648,6 +42648,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "BLB-USDT LP Token",
+      "address": "0xe250644185C4FB70C380bCA3F9B27D1019014435",
+      "symbol": "BLB-USDT LP",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
