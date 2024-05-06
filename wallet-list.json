@@ -6,6 +6,12 @@
     "supportedChains": [1, 5, 56, 137, 250, 592, 1101, 1442, 4002, 42161, 43113, 43114, 80001, 11155111]
   },
   {
+    "id": "rabby",
+    "name": "Rabby",
+    "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/rabby.svg",
+    "supportedChains": [1, 5, 56, 137, 250, 592, 1101, 1442, 4002, 42161, 43113, 43114, 80001, 11155111]
+  },
+  {
     "id": "brave",
     "name": "Brave wallet",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/brave.svg",
