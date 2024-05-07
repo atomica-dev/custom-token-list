@@ -42647,7 +42647,7 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
       "comment": "",
       "rateConfig": "",
-      "fallbackRate": 0
+      "fallbackRate": 1
     },
     {
       "name": "BLB-USDT LP Token",
