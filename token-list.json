@@ -42641,7 +42641,7 @@
       "symbol": "TBONDS01",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "",
+      "logoURI": "https://cryptologos.cc/logos/origin-dollar-ousd-logo.svg?v=032",
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 110.75
