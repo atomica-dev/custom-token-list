@@ -40987,7 +40987,7 @@
       "chainId": 42161,
       "logoURI": "https://www.mtpelerin.com/images/rate-calculator/flag-eurs.svg",
       "comment": "",
-      "rateConfig": "coingecko:EURS",
+      "rateConfig": "coingecko:stasis-eurs",
       "fallbackRate": 0
     },
     {
