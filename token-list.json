@@ -42645,6 +42645,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 110.75
+    },
+    {
+      "name": "Swarm Microsoft",
+      "address": "0xF23c211D6a4d3c861b5FC0244837A3602e4711b6",
+      "symbol": "MSFT",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 424
     }
   ]
 }
