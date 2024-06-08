@@ -42656,6 +42656,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 424
+    },
+    {
+      "name": "Swarm Apple",
+      "address": "0x10c01c5E51d9AcF363a5A5c5Dba2bF76758E759c",
+      "symbol": "AAPL",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 192
     }
   ]
 }
