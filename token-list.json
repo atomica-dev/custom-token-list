@@ -42623,6 +42623,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 1
+    },
+    {
+      "name": "Swarm Market",
+      "address": "0x2C418208090d3166F9fD086F017b1f4E9d8DFeDc",
+      "symbol": "SMT",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/17488/standard/swarm-SMT-token-symbol_200x200.png?1696517029",
+      "comment": "",
+      "rateConfig": "coingecko:swarm-markets",
+      "fallbackRate": 0
     }
   ]
 }
