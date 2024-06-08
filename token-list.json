@@ -42634,6 +42634,17 @@
       "comment": "",
       "rateConfig": "coingecko:swarm-markets",
       "fallbackRate": 0
+    },
+    {
+      "name": "SWARM iShares $ Treasury Bond 0-1yr UCITS ETF",
+      "address": "0xb7715F9128788Dd67eF957584Ec6520F04714E93",
+      "symbol": "TBONDS01",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 110.75
     }
   ]
 }
