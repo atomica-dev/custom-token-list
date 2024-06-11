@@ -42678,6 +42678,17 @@
       "comment": "",
       "rateConfig": "coingecko:lisk",
       "fallbackRate": 0
+    },
+    {
+      "name": "Optimism",
+      "address": "0x4c006554bB13A10cB676fE52E2Bf0e4505237245",
+      "symbol": "OP",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://cryptologos.cc/logos/optimism-ethereum-op-logo.svg?v=032",
+      "comment": "",
+      "rateConfig": "coingecko:optimism",
+      "fallbackRate": 0
     }
   ]
 }
