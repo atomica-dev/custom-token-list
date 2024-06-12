@@ -42689,6 +42689,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "DogeCoin",
+      "address": "0xaD2123Efc9a2e56f05fB67fD96226cd31Dc789Ec",
+      "symbol": "DGC",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://cdn.vox-cdn.com/thumbor/ZhpDnafdaB6YjcvQiq7ytwnRqMw=/0x0:560x345/1400x1050/filters:focal(280x173:281x174)/cdn.vox-cdn.com/assets/3727699/Dogecoin_logo.png",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
