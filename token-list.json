@@ -42669,17 +42669,6 @@
       "fallbackRate": 192
     },
     {
-      "name": "Lisk",
-      "address": "0xC143c161a585C855AA64354046c2370A3CC1C7Db",
-      "symbol": "LSK",
-      "decimals": 18,
-      "chainId": 11155111,
-      "logoURI": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/GJR5WY55DVGNXC2DY63T3UYP7Q.png",
-      "comment": "",
-      "rateConfig": "coingecko:lisk",
-      "fallbackRate": 0
-    },
-    {
       "name": "Optimism",
       "address": "0x4c006554bB13A10cB676fE52E2Bf0e4505237245",
       "symbol": "OP",
