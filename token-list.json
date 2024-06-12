@@ -42678,6 +42678,17 @@
       "comment": "",
       "rateConfig": "coingecko:optimism",
       "fallbackRate": 0
+    },
+    {
+      "name": "Lisk",
+      "address": "0xC143c161a585C855AA64354046c2370A3CC1C7Db",
+      "symbol": "LSK",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/1024px-LEGO_logo.svg.png",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
