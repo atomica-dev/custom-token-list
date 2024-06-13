@@ -40980,17 +40980,6 @@
       "fallbackRate": 0.9996
     },
     {
-      "name": "STASIS EURO",
-      "address": "0xD22a58f79e9481D1a88e00c343885A588b34b68B",
-      "symbol": "EURS",
-      "decimals": 2,
-      "chainId": 42161,
-      "logoURI": "https://www.mtpelerin.com/images/rate-calculator/flag-eurs.svg",
-      "comment": "",
-      "rateConfig": "coingecko:stasis-eurs",
-      "fallbackRate": 0
-    },
-    {
       "name": "STASIS EURS",
       "address": "0x5d8c5293dabc2c861d2f6dbd4bb0600889fdadf3",
       "symbol": "EURS",
