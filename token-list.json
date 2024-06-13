@@ -42191,7 +42191,7 @@
       "chainId": 11155111,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xdeFB1A27D5cbf2544f9ca8eB897F3e0b846EC02F.png",
       "comment": "",
-      "rateConfig": "",
+      "rateConfig": "coingecko:#199",
       "fallbackRate": 0
     },
     {
