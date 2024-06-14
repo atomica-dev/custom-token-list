@@ -42742,7 +42742,7 @@
       "chainId": 11155111,
       "logoURI": "https://assets.coingecko.com/coins/images/36601/standard/hercules_logo_transp_128px.png?1711953416",
       "comment": "",
-      "rateConfig": "",
+      "rateConfig": "coingecko:hercules-token",
       "fallbackRate": 0
     }
   ]
