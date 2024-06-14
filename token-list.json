@@ -42731,7 +42731,7 @@
       "chainId": 11155111,
       "logoURI": "https://cdn.prod.website-files.com/6507242ad3e4e6ff563301e4/65de482ef43ade9259eb50fe_Symbol%20Blue%20White.svg",
       "comment": "",
-      "rateConfig": "",
+      "rateConfig": "coingecko:staked-metis-token",
       "fallbackRate": 0
     },
     {
