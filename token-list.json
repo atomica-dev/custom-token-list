@@ -42722,6 +42722,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "Staked Metis Token",
+      "address": "0x8B96395918413BBdB0d548804044a58a1bd5552E",
+      "symbol": "ARTMETIS",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://cdn.prod.website-files.com/6507242ad3e4e6ff563301e4/65de482ef43ade9259eb50fe_Symbol%20Blue%20White.svg",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
