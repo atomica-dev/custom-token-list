@@ -42700,6 +42700,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "Metis",
+      "address": "0x68Ce988F27c5Be9dBa073Dd00e82bC8b7D8e3b53",
+      "symbol": "Metis",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://cdn.prod.website-files.com/6507242ad3e4e6ff563301e4/65de58e66e6def01f33bc342_Symbol%201.svg",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
