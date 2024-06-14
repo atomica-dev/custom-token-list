@@ -42733,6 +42733,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "Hercules Token",
+      "address": "0x3eafB73a8B8d6A164e224E0baEd0aa968A555832",
+      "symbol": "TORCH",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/36601/standard/hercules_logo_transp_128px.png?1711953416",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
