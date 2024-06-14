@@ -42709,7 +42709,7 @@
       "chainId": 11155111,
       "logoURI": "https://cdn.prod.website-files.com/6507242ad3e4e6ff563301e4/65de58e66e6def01f33bc342_Symbol%201.svg",
       "comment": "",
-      "rateConfig": "",
+      "rateConfig": "coingecko:metis-token",
       "fallbackRate": 0
     },
     {
