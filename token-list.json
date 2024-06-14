@@ -42720,7 +42720,7 @@
       "chainId": 11155111,
       "logoURI": "https://cdn.prod.website-files.com/6507242ad3e4e6ff563301e4/65de598c03ce96c6d5b1e135_Symbol%20light%20background%201.svg",
       "comment": "",
-      "rateConfig": "",
+      "rateConfig": "coingecko:wmetis",
       "fallbackRate": 0
     },
     {
