@@ -42744,6 +42744,17 @@
       "comment": "",
       "rateConfig": "coingecko:hercules-token",
       "fallbackRate": 0
+    },
+    {
+      "name": "ZKsync",
+      "address": "0xb12f676Dcf80EE6CcC213700C621Daf19E38f145",
+      "symbol": "ZK",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/38043/standard/ZKTokenBlack.png?1718614502",
+      "comment": "",
+      "rateConfig": "coingecko:zksync",
+      "fallbackRate": 0
     }
   ]
 }
