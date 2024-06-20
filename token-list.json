@@ -42136,12 +42136,15 @@
       "fallbackRate": 43.1
     },
     {
-      "address": "0x08a0e378c8C9027165367e66f9A17e9E48489eC3",
-      "chainId": 11155111,
-      "decimals": 18,
       "name": "SyncSwap RFX-ETH LP",
+      "address": "0x08a0e378c8C9027165367e66f9A17e9E48489eC3",
+      "symbol": "SyncSwap RFX-ETH LP",
+      "decimals": 18,
+      "chainId": 11155111,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xAC4EEd58375dB9D02D792c471D23450CCA0dB912.png",
-      "symbol": "SyncSwap RFX-ETH LP"
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 71.7
     },
     {
       "address": "0x53e8b86dB577856F8Dec0bBeAA292B50C57Ce9f7",
