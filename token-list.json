@@ -42125,12 +42125,15 @@
       "fallbackRate": 0
     },
     {
-      "address": "0xf1BDBB57FAf1530eE08C488eCa791cc528E596CE",
-      "chainId": 11155111,
-      "decimals": 6,
       "name": "RFX",
+      "address": "0xf1BDBB57FAf1530eE08C488eCa791cc528E596CE",
+      "symbol": "RFX",
+      "decimals": 6,
+      "chainId": 11155111,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x1BCBD60122B6b74D29b971aafF5467a3Ad6b02d2.jpg",
-      "symbol": "RFX"
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0.5
     },
     {
       "address": "0x08a0e378c8C9027165367e66f9A17e9E48489eC3",
