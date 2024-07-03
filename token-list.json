@@ -40785,12 +40785,15 @@
       "symbol": "USDC"
     },
     {
-      "address": "0xe10D4a4255D2D35c9e23E2C4790E073046FbaF5c",
-      "chainId": 42161,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/LNDX-200.webp",
       "name": "LandX Governance Token",
-      "symbol": "LNDX"
+      "address": "0xe10D4a4255D2D35c9e23E2C4790E073046FbaF5c",
+      "symbol": "LNDX",
+      "decimals": 6,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/LNDX-200.webp",
+      "comment": "",
+      "rateConfig": "coingecko:landx-governance-token",
+      "fallbackRate": 0
     },
     {
       "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
