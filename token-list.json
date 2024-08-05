@@ -42789,6 +42789,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "PoolTogether",
+      "address": "0xd84121811226f2D020bBa6c87FEaf1D880ea10fF",
+      "symbol": "POOL",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://avatars.githubusercontent.com/u/52546024?s=280&v=4",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
