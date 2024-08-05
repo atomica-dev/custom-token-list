@@ -42767,6 +42767,17 @@
       "comment": "",
       "rateConfig": "coingecko:zksync",
       "fallbackRate": 0
+    },
+    {
+      "name": "Superform Token",
+      "address": "0x2aa8027649EfD7D619146aF1fa299274e4be3602",
+      "symbol": "SFORM",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://avatars.githubusercontent.com/u/101590946?s=280&v=4",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
