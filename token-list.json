@@ -42778,6 +42778,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "Morpho Network",
+      "address": "0x294AD08EaD6dAa09fE3D99501D85BC3D87107e86",
+      "symbol": "MORPHO",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/28541/standard/MORPHO_NETWORK_LOGO.PNG?1696527533",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
