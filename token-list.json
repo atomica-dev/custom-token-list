@@ -42800,6 +42800,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "LandX DBS Senior pool",
+      "address": "0x65a5984bf288f680d59120efe1feca70ec08a060",
+      "symbol": "LandX DBS Senior",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "ATOMICA_POOL_TOKEN_28",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
