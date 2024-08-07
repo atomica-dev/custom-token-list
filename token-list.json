@@ -41008,6 +41008,17 @@
       "fallbackRate": 0
     },
     {
+      "name": "LNDX BG RE Sen Pool 01",
+      "address": "0x0d56F741c6d9B09C823e46B701505dcb93f518E4",
+      "symbol": "LNDX BG RE Sen Pool 01",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "",
+      "comment": "ATOMICA_POOL_TOKEN_33",
+      "rateConfig": "",
+      "fallbackRate": 0
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
