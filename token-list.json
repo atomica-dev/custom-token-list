@@ -40997,6 +40997,17 @@
       "fallbackRate": 0
     },
     {
+      "name": "LNDX BG RE Jun Pool 02",
+      "address": "0x82F5839362Cd07Cc9D9653d70f033BD2866882Cc",
+      "symbol": "LNDX BG RE Jun Pool 02",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "",
+      "comment": "ATOMICA_POOL_TOKEN_31",
+      "rateConfig": "",
+      "fallbackRate": 0
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
