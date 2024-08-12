@@ -42843,7 +42843,7 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/11155111-0x5E96279e1B5b21ee97e3269C2dF6c9Ecf66e2EA0.jpg",
       "comment": "",
       "rateConfig": "",
-      "fallbackRate": 0
+      "fallbackRate": 1
     },
     {
       "name": "MATE-USDC LP token",
