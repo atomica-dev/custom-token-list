@@ -42840,7 +42840,7 @@
       "symbol": "MATE",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "https://wl-img-prd.s3-accelerate.amazonaws.com/904feb50-904b-4aff-a246-832bc8ce906c-h.jpeg",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/11155111-0x5E96279e1B5b21ee97e3269C2dF6c9Ecf66e2EA0.jpg",
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
