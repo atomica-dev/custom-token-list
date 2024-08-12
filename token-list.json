@@ -42833,6 +42833,17 @@
       "comment": "ATOMICA_POOL_TOKEN_28",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "InvoiceMate Token",
+      "address": "0x5E96279e1B5b21ee97e3269C2dF6c9Ecf66e2EA0",
+      "symbol": "MATE",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://wl-img-prd.s3-accelerate.amazonaws.com/904feb50-904b-4aff-a246-832bc8ce906c-h.jpeg",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
