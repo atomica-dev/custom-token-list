@@ -42844,6 +42844,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "MATE-USDC LP token",
+      "address": "0xEefC9db521d8F20d2ac8FaD87DaFCCC9dD90FBf0",
+      "symbol": "MATE-USDC",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
