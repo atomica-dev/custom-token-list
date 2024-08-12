@@ -42851,7 +42851,7 @@
       "symbol": "MATE-USDC",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/11155111-0xEefC9db521d8F20d2ac8FaD87DaFCCC9dD90FBf0.PNG",
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
