@@ -42300,11 +42300,15 @@
       "symbol": "QI"
     },
     {
-      "address": "0xcaD4ed2A2b3C8983d750Aca6e54E37Bfd2f7546C",
-      "chainId": 11155111,
-      "decimals": 18,
       "name": "yearn.finance",
-      "symbol": "YFI"
+      "address": "0xcaD4ed2A2b3C8983d750Aca6e54E37Bfd2f7546C",
+      "symbol": "YFI",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://cryptologos.cc/logos/yearn-finance-yfi-logo.png",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     },
     {
       "address": "0xa681fa103acf77E3BE7582CC608B2aE0c86ea0a1",
