@@ -42229,11 +42229,15 @@
       "fallbackRate": 0
     },
     {
-      "address": "0x5d573a0430d02a52BBEa6177e20Cf653ea304781",
-      "chainId": 11155111,
-      "decimals": 18,
       "name": "Frax",
-      "symbol": "FRAX"
+      "address": "0x5d573a0430d02a52BBEa6177e20Cf653ea304781",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://cryptologos.cc/logos/frax-frax-logo.png",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     },
     {
       "address": "0xbBfd74DfEAf5EB9c20e155a8D12bBd5C6Cc88d81",
