@@ -42874,6 +42874,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "Minterest Token",
+      "address": "0x5812ECa5CfA9189C9DB97B0e58e03d8754278884",
+      "symbol": "MINTY",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/29455/standard/MINTY.png?1706817774",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
