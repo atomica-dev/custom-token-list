@@ -42863,6 +42863,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 1
+    },
+    {
+      "name": "Mantle Token",
+      "address": "0x2C92AD3bD20A619cB4a7c8093fF6a311Fd6ca6bb",
+      "symbol": "MNT",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/30980/standard/token-logo.png?1696529819",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
