@@ -42597,7 +42597,7 @@
       "chainId": 11155111,
       "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.svg?v=031",
       "comment": "",
-      "rateConfig": "coingecko:wrapped-bitcoin",
+      "rateConfig": "coingecko:bitcoin",
       "fallbackRate": 0
     },
     {
