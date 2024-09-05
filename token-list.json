@@ -42093,7 +42093,7 @@
       "chainId": 11155111,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x46960beB2e1ECD7CbDe8C43407c24893B6Fd921A.png",
       "comment": "",
-      "rateConfig": "",
+      "rateConfig": "coingecko:wrapped-bitcoin",
       "fallbackRate": 0
     },
     {
