@@ -42894,7 +42894,7 @@
       "chainId": 11155111,
       "logoURI": "https://cryptologos.cc/logos/bitcoinz-btcz-logo.svg?v=033",
       "comment": "LNBTC",
-      "rateConfig": "",
+      "rateConfig": "coingecko:bitcoin",
       "fallbackRate": 0
     }
   ]
