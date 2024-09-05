@@ -42892,7 +42892,7 @@
       "symbol": "LNBTC",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "",
+      "logoURI": "https://cryptologos.cc/logos/bitcoinz-btcz-logo.svg?v=033",
       "comment": "LNBTC",
       "rateConfig": "",
       "fallbackRate": 0
