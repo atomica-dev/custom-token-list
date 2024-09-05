@@ -42885,6 +42885,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "LNBTC",
+      "address": "0x5714C5195676aE6F27a5E0373e42D9ecf6B764Aa",
+      "symbol": "LNBTC",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "LNBTC",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
