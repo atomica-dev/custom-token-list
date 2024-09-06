@@ -42896,6 +42896,17 @@
       "comment": "LNBTC",
       "rateConfig": "coingecko:bitcoin",
       "fallbackRate": 0
+    },
+    {
+      "name": "LNBTC2",
+      "address": "0xAd2f249dfFe5627C663589Ec6D77f7d0438D3DDf",
+      "symbol": "LNBTC",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
