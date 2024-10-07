@@ -42907,6 +42907,17 @@
       "comment": "",
       "rateConfig": "coingecko:bitcoin",
       "fallbackRate": 0
+    },
+    {
+      "name": "Pangolin Token",
+      "address": "0x000fA88eF41d606f156BbB15A1E4DC209e3E9D98",
+      "symbol": "PNG",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/14023/standard/PNG_token.png?1696513750",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
