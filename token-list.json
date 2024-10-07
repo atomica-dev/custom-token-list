@@ -42918,6 +42918,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "Pangolin LS Token",
+      "address": "0xB03b32F6e41B7478De17e42c6a7Cf6C6CF49faF5",
+      "symbol": "stPNG",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/14023/standard/PNG_token.png?1696513750",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
