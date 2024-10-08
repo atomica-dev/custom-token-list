@@ -42916,8 +42916,8 @@
       "chainId": 11155111,
       "logoURI": "https://assets.coingecko.com/coins/images/14023/standard/PNG_token.png?1696513750",
       "comment": "",
-      "rateConfig": "",
-      "fallbackRate": 0
+      "rateConfig": "coingecko:pangolin",
+      "fallbackRate": 0.2432
     },
     {
       "name": "Pangolin LS Token",
