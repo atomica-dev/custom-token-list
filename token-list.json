@@ -42929,6 +42929,17 @@
       "comment": "",
       "rateConfig": "coingecko:pangolin",
       "fallbackRate": 0.2435
+    },
+    {
+      "name": "MANTA Token",
+      "address": "0xCe9277De95175Ff5506D08D3D32bd1f0CD70A9a6",
+      "symbol": "MANTA",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEF0FduaU5yvbN2m0wLIOwSVWOfXGKtlRSow&s",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
