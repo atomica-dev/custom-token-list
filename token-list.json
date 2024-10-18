@@ -42940,6 +42940,28 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
+    },
+    {
+      "name": "Hacken Token",
+      "address": "0x73E2A6320314883ff8Cc08b53F1460a5f4c47f2c",
+      "symbol": "HAI",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC9d46FA6CE6A51a93359b6159F495EF87Cf625F8.png",
+      "comment": "Hacken token",
+      "rateConfig": "coingecko:hackenai",
+      "fallbackRate": 0
     }
   ]
 }
