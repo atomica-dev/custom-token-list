@@ -40778,6 +40778,28 @@
     },
     {
       "name": "USD Coin",
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
+    },
+    {
+      "name": "Hacken Token",
+      "address": "0x73E2A6320314883ff8Cc08b53F1460a5f4c47f2c",
+      "symbol": "HAI",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC9d46FA6CE6A51a93359b6159F495EF87Cf625F8.png",
+      "comment": "Hacken token",
+      "rateConfig": "coingecko:hackenai",
+      "fallbackRate": 0.04607
+    },
+    {
+      "name": "USD Coin",
       "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
       "symbol": "USDC",
       "decimals": 6,
@@ -41015,6 +41037,17 @@
       "chainId": 42161,
       "logoURI": "",
       "comment": "ATOMICA_POOL_TOKEN_33",
+      "rateConfig": "",
+      "fallbackRate": 0
+    },
+    {
+      "name": "LNDX Senior Agri Loan Pool",
+      "address": "0xf4dd3d7307472f5c0a7d94e7b4d120666363614c",
+      "symbol": "LNDX Senior Agri Loan Pool",
+      "decimals": 180,
+      "chainId": 42161,
+      "logoURI": "",
+      "comment": "ATOMICA_POOL_TOKEN_39",
       "rateConfig": "",
       "fallbackRate": 0
     },
@@ -42940,28 +42973,6 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
-    },
-    {
-      "name": "USD Coin",
-      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-      "symbol": "USDC",
-      "decimals": 6,
-      "chainId": 8453,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
-      "comment": "",
-      "rateConfig": "",
-      "fallbackRate": 0
-    },
-    {
-      "name": "Hacken Token",
-      "address": "0x73E2A6320314883ff8Cc08b53F1460a5f4c47f2c",
-      "symbol": "HAI",
-      "decimals": 8,
-      "chainId": 8453,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC9d46FA6CE6A51a93359b6159F495EF87Cf625F8.png",
-      "comment": "Hacken token",
-      "rateConfig": "coingecko:hackenai",
-      "fallbackRate": 0.04607
     }
   ]
 }
