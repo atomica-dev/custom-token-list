@@ -41044,7 +41044,7 @@
       "name": "LNDX Senior Agri Loan Pool",
       "address": "0xf4dd3d7307472f5c0a7d94e7b4d120666363614c",
       "symbol": "LNDX Senior Agri Loan Pool",
-      "decimals": 180,
+      "decimals": 18,
       "chainId": 42161,
       "logoURI": "",
       "comment": "ATOMICA_POOL_TOKEN_39",
