@@ -43005,7 +43005,7 @@
       "symbol": "WETH-MANTA LP",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "",
+      "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fcoin-images.coingecko.com%2Fcoins%2Fimages%2F34289%2Flarge%2Fmanta.jpg%3F1704468717&w=32&q=75",
       "comment": "WETH-MANTA LP",
       "rateConfig": "terminal-pool:169:0x8f0111df7d48c9117d44b9cedfc23f160e3311f3",
       "fallbackRate": 0
