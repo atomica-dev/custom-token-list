@@ -43009,6 +43009,17 @@
       "comment": "WETH-MANTA LP",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "weETH",
+      "address": "0x6642ba5a8e22f6f616f11141d502d7c43501e1c8",
+      "symbol": "weETH",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/37842/standard/weETH_%281%29.png?1715747077",
+      "comment": "weETH",
+      "rateConfig": "coingecko:ether-fi-bridged-weeth-linea",
+      "fallbackRate": 0
     }
   ]
 }
