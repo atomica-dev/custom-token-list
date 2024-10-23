@@ -42998,6 +42998,17 @@
       "comment": "vMANTA",
       "rateConfig": "coingecko:bifrost-voucher-manta",
       "fallbackRate": 0
+    },
+    {
+      "name": "WETH-MANTA LP",
+      "address": "0x67B1D78d281f2145757cd4408db5DdA356ee527F",
+      "symbol": "WETH-MANTA LP",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "WETH-MANTA LP",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
