@@ -42485,12 +42485,15 @@
       "symbol": "iFIL"
     },
     {
-      "address": "0x3a18F2c4269899087184d5248B38c14556F60331",
-      "chainId": 11155111,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x043A6c6D1885d49bf541CEC3065C4C802c57d8E8.png",
       "name": "QuickSwap",
-      "symbol": "QUICK"
+      "address": "0x3a18F2c4269899087184d5248B38c14556F60331",
+      "symbol": "QUICK",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x043A6c6D1885d49bf541CEC3065C4C802c57d8E8.png",
+      "comment": "",
+      "rateConfig": "coingecko:quickswap",
+      "fallbackRate": 0
     },
     {
       "address": "0xa1b0b118e83BC781d8a9BB9cF22C68a7f7DeBE69",
