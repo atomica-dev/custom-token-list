@@ -42994,9 +42994,9 @@
       "symbol": "vMANTA",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/34707/standard/vMANTA.png?1705893023",
       "comment": "vMANTA",
-      "rateConfig": "",
+      "rateConfig": "coingecko:bifrost-voucher-manta",
       "fallbackRate": 0
     }
   ]
