@@ -42973,6 +42973,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "QUICK",
+      "address": "0xFC246C7fb813291a57dcF6033fD26C419B942014",
+      "symbol": "QUICK",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/25393/standard/quickswap.png?1696524525",
+      "comment": "(QUICK)",
+      "rateConfig": "coingecko:quickswap",
+      "fallbackRate": 0
     }
   ]
 }
