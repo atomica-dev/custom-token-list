@@ -43007,7 +43007,7 @@
       "chainId": 11155111,
       "logoURI": "",
       "comment": "WETH-MANTA LP",
-      "rateConfig": "",
+      "rateConfig": "terminal-pool:169:https://www.geckoterminal.com/manta-pacific/pools/0x8f0111df7d48c9117d44b9cedfc23f160e3311f3",
       "fallbackRate": 0
     },
     {
