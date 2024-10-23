@@ -43020,6 +43020,17 @@
       "comment": "weETH",
       "rateConfig": "coingecko:ether-fi-bridged-weeth-linea",
       "fallbackRate": 0
+    },
+    {
+      "name": "STONE",
+      "address": "0x38a5f1686a283692d49ef079bb9b48c10381b209",
+      "symbol": "STONE",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/33103/standard/200_200.png?1702602672",
+      "comment": "STONE",
+      "rateConfig": "coingecko:stakestone-ether",
+      "fallbackRate": 0
     }
   ]
 }
