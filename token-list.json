@@ -42987,6 +42987,17 @@
       "comment": "(QUICK)",
       "rateConfig": "coingecko:quickswap",
       "fallbackRate": 0
+    },
+    {
+      "name": "vMANTA",
+      "address": "0xF05b6c5eF92cBEA3F48D0f189bC79d1a1b0BA827",
+      "symbol": "vMANTA",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "vMANTA",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
