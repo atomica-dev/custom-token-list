@@ -41052,9 +41052,9 @@
       "fallbackRate": 0
     },
     {
-      "name": "Senior Agri Loan Pool 02",
+      "name": "LNDX Senior Agri Loan Pool 02",
       "address": "0xd6fc631e243c2c323dff0e63e6d64cb615ac105e",
-      "symbol": "Senior Agri Loan Pool 02",
+      "symbol": "LNDX Senior Agri Loan Pool 02",
       "decimals": 18,
       "chainId": 42161,
       "logoURI": "",
