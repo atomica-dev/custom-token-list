@@ -43553,9 +43553,9 @@
       "fallbackRate": 0
     },
     {
-      "name": "THAI",
+      "name": "HAI",
       "address": "0xFa23B6F492AFb13F0CfcE06da9B84e72c8E8Fa6B",
-      "symbol": "THAI",
+      "symbol": "HAI",
       "decimals": 8,
       "chainId": 11155111,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC9d46FA6CE6A51a93359b6159F495EF87Cf625F8.png",
