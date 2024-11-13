@@ -124,7 +124,7 @@
     {
       "chainId": 11155111,
       "name": "Sepolia",
-      "fullName": "Sepolia",
+      "fullName": "Ethereum Sepolia",
       "logo": "https://sepolia.dev/wp-content/uploads/elementor/thumbs/the-dolphin-po0q7ezlhqqzvrfmzw0atih2l0vqelut73w4eh5qtc.png",
       "explorerUrl": "https://sepolia.etherscan.io/",
       "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
@@ -248,6 +248,20 @@
         "decimals": 18
       },
       "rpcUrls": ["https://mainnet.base.org", "https://base.meowrpc.com", "https://base-rpc.publicnode.com", "https://base-pokt.nodies.app", "https://base.drpc.org"]
+    },
+    {
+      "chainId": 84532,
+      "name": "Base Sepolia",
+      "fullName": "Base Sepolia",
+      "explorerUrl": "https://sepolia.basescan.org/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/base.svg",
+      "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": ["https://sepolia.base.org", "https://base-sepolia-rpc.publicnode.com", "https://base-sepolia.blockpi.network/v1/rpc/public"]
     }
   ],
 
