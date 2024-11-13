@@ -3,7 +3,7 @@
     "id": "metamask",
     "name": "Metamask",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/metamask.svg",
-    "supportedChains": [1, 5, 56, 137, 250, 592, 1101, 1442, 4002, 8453, 42161, 43113, 43114, 11155111]
+    "supportedChains": [1, 5, 56, 137, 250, 592, 1101, 1442, 4002, 8453, 42161, 43113, 43114, 84532, 11155111]
   },
   {
     "id": "trustWallet",
@@ -21,31 +21,31 @@
     "id": "brave",
     "name": "Brave wallet",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/brave.svg",
-    "supportedChains": [1, 5, 56, 137, 250, 592, 1101, 1442, 4002, 8453, 42161, 43113, 43114, 11155111]
+    "supportedChains": [1, 5, 56, 137, 250, 592, 1101, 1442, 4002, 8453, 42161, 43113, 43114, 84532, 11155111]
   },
   {
     "id": "opera",
     "name": "Opera wallet",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/opera.svg",
-    "supportedChains": [1, 5, 56, 137, 250, 592, 1101, 1442, 4002, 8453, 42161, 43113, 43114, 11155111]
+    "supportedChains": [1, 5, 56, 137, 250, 592, 1101, 1442, 4002, 8453, 42161, 43113, 43114, 84532, 11155111]
   },
   {
     "id": "walletConnect",
     "name": "Wallet Connect",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/wallet-connect.svg",
-    "supportedChains": [1, 5, 56, 137, 250, 1101, 1442, 4002, 8453, 42161, 43113, 43114, 11155111]
+    "supportedChains": [1, 5, 56, 137, 250, 1101, 1442, 4002, 8453, 42161, 43113, 43114, 84532, 11155111]
   },
   {
     "id": "coinbaseWallet",
     "name": "Coinbase wallet",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/wallet-link.svg",
-    "supportedChains": [1, 5, 56, 137, 250, 4002, 8453, 42161, 43113, 43114, 11155111]
+    "supportedChains": [1, 5, 56, 137, 250, 4002, 8453, 42161, 43113, 43114, 84532, 11155111]
   },
   {
     "id": "safe",
     "name": "Safe",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/safe.webp",
-    "supportedChains": [1, 5, 56, 137, 43114, 42161]
+    "supportedChains": [1, 5, 56, 137, 43114, 42161, 84532, 11155111]
   },
   {
     "id": "ledger",
