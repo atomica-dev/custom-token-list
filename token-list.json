@@ -43562,17 +43562,6 @@
       "comment": "",
       "rateConfig": "coingecko:hackenai",
       "fallbackRate": 0
-    },
-    {
-      "name": "1",
-      "address": "0xcf9b8269f7F7A109fDef222d18a5D4Cf39A9cec0",
-      "symbol": "2",
-      "decimals": 0,
-      "chainId": 11155111,
-      "logoURI": "",
-      "comment": "",
-      "rateConfig": "",
-      "fallbackRate": 0
     }
   ]
 }
