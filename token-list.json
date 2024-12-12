@@ -41074,6 +41074,17 @@
       "fallbackRate": 1
     },
     {
+      "name": " USDC.r",
+      "address": "0xF8DAB02068B6272409c5efE331C8337b8bBA8805",
+      "symbol": "USDC.r",
+      "decimals": 6,
+      "chainId": 42161,
+      "logoURI": "",
+      "comment": "new USDC.r",
+      "rateConfig": "",
+      "fallbackRate": 1
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
