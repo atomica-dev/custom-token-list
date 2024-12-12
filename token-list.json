@@ -41074,7 +41074,7 @@
       "fallbackRate": 1
     },
     {
-      "name": "USDC.r",
+      "name": "old USDC.r",
       "address": "0x654c3bd69fcbb7b2b0d6461d58eec4e06a429427",
       "symbol": "USDC.r",
       "decimals": 6,
