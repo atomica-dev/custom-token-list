@@ -41063,17 +41063,6 @@
       "fallbackRate": 0
     },
     {
-      "name": "USDC.r",
-      "address": "0x654c3bd69fcbb7b2b0d6461d58eec4e06a429427",
-      "symbol": "USDC.r",
-      "decimals": 6,
-      "chainId": 42161,
-      "logoURI": "",
-      "comment": "USDC.r",
-      "rateConfig": "",
-      "fallbackRate": 1
-    },
-    {
       "name": " USDC.r",
       "address": "0xF8DAB02068B6272409c5efE331C8337b8bBA8805",
       "symbol": "USDC.r",
