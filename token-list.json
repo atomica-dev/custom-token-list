@@ -43595,6 +43595,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "Dimat",
+      "address": "0x3A45Fad0d5312fA78f569d1E102BCB030F4d9037",
+      "symbol": "Dimat",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://cryptologos.cc/logos/polymath-network-poly-logo.svg?v=040",
+      "comment": "Hacken test",
+      "rateConfig": "",
+      "fallbackRate": 0.5
     }
   ]
 }
