@@ -43605,7 +43605,7 @@
       "logoURI": "https://cryptologos.cc/logos/polymath-network-poly-logo.svg?v=040",
       "comment": "Hacken test",
       "rateConfig": "",
-      "fallbackRate": 0.5
+      "fallbackRate": 0.75
     }
   ]
 }
