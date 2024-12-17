@@ -43606,6 +43606,17 @@
       "comment": "Hacken test",
       "rateConfig": "",
       "fallbackRate": 0.75
+    },
+    {
+      "name": "aWTI",
+      "address": "0xcfa4fc680be6d3bf04a050acdcacad726ecda7f2",
+      "symbol": "aWTI",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
