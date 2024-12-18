@@ -40807,7 +40807,7 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
       "comment": "",
       "rateConfig": "coingecko:USDC",
-      "fallbackRate": 0
+      "fallbackRate": 1
     },
     {
       "name": "LandX Governance Token",
