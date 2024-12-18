@@ -40818,7 +40818,7 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/LNDX-200.webp",
       "comment": "",
       "rateConfig": "coingecko:landx-governance-token",
-      "fallbackRate": 0
+      "fallbackRate": 0.3777
     },
     {
       "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
