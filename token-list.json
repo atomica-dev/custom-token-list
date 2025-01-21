@@ -43617,6 +43617,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 86.8
+    },
+    {
+      "name": "A-petro Lending Token",
+      "address": "0x810d8CcCb873A51fF63532FcB6a8B6150b3d626E",
+      "symbol": "A-petro LT",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
