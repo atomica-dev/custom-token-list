@@ -43649,7 +43649,7 @@
       "logoURI": "",
       "comment": "",
       "rateConfig": "",
-      "fallbackRate": 0
+      "fallbackRate": 1
     },
     {
       "name": "RUSD",
