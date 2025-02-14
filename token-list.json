@@ -43639,6 +43639,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "ASPN-USDC",
+      "address": "0x9B990393362127aB2475Bc1536fE895F82A6bF4A",
+      "symbol": "ASPN-USDC",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
