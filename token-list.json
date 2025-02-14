@@ -43641,9 +43641,9 @@
       "fallbackRate": 0
     },
     {
-      "name": "ASPN-USDC",
+      "name": "80% ASPN. 80% USDC",
       "address": "0x9B990393362127aB2475Bc1536fE895F82A6bF4A",
-      "symbol": "ASPN-USDC",
+      "symbol": "80ASPN-20USDC",
       "decimals": 18,
       "chainId": 11155111,
       "logoURI": "",
