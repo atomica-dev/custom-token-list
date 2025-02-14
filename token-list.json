@@ -43638,7 +43638,7 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/11155111-0x0b51877bB9AF2e6786B4cC6D8E33245a139b0d29.png",
       "comment": "",
       "rateConfig": "",
-      "fallbackRate": 0
+      "fallbackRate": 1
     },
     {
       "name": "80% ASPN. 20% USDC",
