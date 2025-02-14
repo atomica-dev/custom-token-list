@@ -43650,6 +43650,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "RUSD",
+      "address": "0x60fa38c031e9242f4567acdffebc4320fa64fdc3",
+      "symbol": "RUSD",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 1
     }
   ]
 }
