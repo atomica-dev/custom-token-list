@@ -41107,6 +41107,17 @@
       "fallbackRate": 0
     },
     {
+      "name": "dpARB",
+      "address": "0xc629e8889350f1bbbf6ed1955095c2198ddc41c2",
+      "symbol": "dpARB",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x912CE59144191C1204E64559FE8253a0e49E6548.png",
+      "comment": "Deltaprime dpARB",
+      "rateConfig": "coingecko:arbitrum",
+      "fallbackRate": 0
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
