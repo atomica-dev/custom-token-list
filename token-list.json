@@ -41118,6 +41118,17 @@
       "fallbackRate": 0
     },
     {
+      "name": "dpWBTC",
+      "address": "0x0ed7b42b74f039eda928e1ae6f44eed5ef195fb5",
+      "symbol": "dpWBTC",
+      "decimals": 8,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x5CdE36c23f0909960BA4D6E8713257C6191f8C35.png",
+      "comment": "DeltaPrime dpWBTC",
+      "rateConfig": "coingecko:bitcoin",
+      "fallbackRate": 0
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
