@@ -41126,7 +41126,7 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x5CdE36c23f0909960BA4D6E8713257C6191f8C35.png",
       "comment": "DeltaPrime dpWBTC",
       "rateConfig": "coingecko:bitcoin",
-      "fallbackRate": 0
+      "fallbackRate": 95266
     },
     {
       "name": "Wrapped Ether",
