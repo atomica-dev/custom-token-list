@@ -41092,7 +41092,7 @@
       "chainId": 42161,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
       "comment": "Deltaprime USDC",
-      "rateConfig": "",
+      "rateConfig": "coingecko:usdc",
       "fallbackRate": 0
     },
     {
