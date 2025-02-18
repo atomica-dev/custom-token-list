@@ -41104,7 +41104,7 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
       "comment": "Deltaprime dpETH",
       "rateConfig": "coingecko:ethereum",
-      "fallbackRate": 0
+      "fallbackRate": 2662
     },
     {
       "name": "dpARB",
