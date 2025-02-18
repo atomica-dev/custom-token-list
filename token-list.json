@@ -41085,6 +41085,17 @@
       "fallbackRate": 1
     },
     {
+      "name": "dpUSDC",
+      "address": "0x8ac9dc27a6174a1cc30873b367a60acdfab965cc",
+      "symbol": "dpUSDC",
+      "decimals": 6,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
+      "comment": "Deltaprime USDC",
+      "rateConfig": "",
+      "fallbackRate": 0
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
