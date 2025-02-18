@@ -41096,6 +41096,17 @@
       "fallbackRate": 0
     },
     {
+      "name": "dpETH",
+      "address": "0x788a8324943beb1a7a47b76959e6c1e6b87ed360",
+      "symbol": "dpETH",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+      "comment": "Deltaprime dpETH",
+      "rateConfig": "coingecko:ethereum",
+      "fallbackRate": 0
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
