@@ -43716,6 +43716,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 1
+    },
+    {
+      "name": "Atomica Demo Token",
+      "address": "0xBbbD55cbfaC9dd41a2Be46f6adc424bF3D79eAfd",
+      "symbol": "ADT",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/11155111-0xBbbD55cbfaC9dd41a2Be46f6adc424bF3D79eAfd.ico",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
