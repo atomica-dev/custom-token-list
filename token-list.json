@@ -41115,7 +41115,7 @@
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x912CE59144191C1204E64559FE8253a0e49E6548.png",
       "comment": "Deltaprime dpARB",
       "rateConfig": "coingecko:arbitrum",
-      "fallbackRate": 0
+      "fallbackRate": 0.46
     },
     {
       "name": "dpWBTC",
