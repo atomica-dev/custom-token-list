@@ -43738,6 +43738,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 1
+    },
+    {
+      "name": "DAI-TestnetMintableERC20-Aave",
+      "address": "0xF07bf0398F2Fd6FCB493Abeb057f0DAcDb13d036",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "coingecko:dai",
+      "fallbackRate": 0
     }
   ]
 }
