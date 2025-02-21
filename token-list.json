@@ -42866,7 +42866,7 @@
       "chainId": 11155111,
       "logoURI": "https://cryptologos.cc/logos/frax-frax-logo.png",
       "comment": "",
-      "rateConfig": "",
+      "rateConfig": "coingecko:frax",
       "fallbackRate": 0
     },
     {
