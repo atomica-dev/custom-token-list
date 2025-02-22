@@ -43749,6 +43749,17 @@
       "comment": "",
       "rateConfig": "coingecko:dai",
       "fallbackRate": 0
+    },
+    {
+      "name": "VILLA",
+      "address": "0xf74D743B70fdBcA7C520b57Ab16A4c77A918b15c",
+      "symbol": "VILLA",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://i.imgur.com/FZeXnCe.png",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
