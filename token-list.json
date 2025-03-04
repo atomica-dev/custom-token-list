@@ -41140,6 +41140,17 @@
       "fallbackRate": 0
     },
     {
+      "name": "Prime",
+      "address": "0x3De81CE90f5A27C5E6A5aDb04b54ABA488a6d14E",
+      "symbol": "Prime",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://s3.us-east-2.amazonaws.com/dev.reports.srm/Deltaprime/Deltaprime.png",
+      "comment": "DeltaPrime Prime token",
+      "rateConfig": "coingecko:prime-2",
+      "fallbackRate": 0
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
