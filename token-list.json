@@ -43781,7 +43781,7 @@
       "logoURI": "https://cryptologos.cc/logos/origin-dollar-ousd-logo.svg?v=040",
       "comment": "Stratex USD",
       "rateConfig": "coingecko:tether",
-      "fallbackRate": 0
+      "fallbackRate": 1
     }
   ]
 }
