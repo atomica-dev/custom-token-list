@@ -43771,6 +43771,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "StratUSD",
+      "address": "0x82328e9Ac42AaD1297f3afb7AA974370BC216e66",
+      "symbol": "StratUSD",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "Stratex USD",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
