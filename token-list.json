@@ -43778,7 +43778,7 @@
       "symbol": "StratUSD",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "",
+      "logoURI": "https://cryptologos.cc/logos/origin-dollar-ousd-logo.svg?v=040",
       "comment": "Stratex USD",
       "rateConfig": "",
       "fallbackRate": 0
