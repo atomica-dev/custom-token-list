@@ -43782,6 +43782,17 @@
       "comment": "Stratex USD",
       "rateConfig": "coingecko:tether",
       "fallbackRate": 1
+    },
+    {
+      "name": "iStratUSD",
+      "address": "0x70cc6f3b449a15ff4c458f378ee71be400ef9acc",
+      "symbol": "iStratUSD",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://cryptologos.cc/logos/usdd-usdd-logo.svg?v=040",
+      "comment": "Stratex insured USD",
+      "rateConfig": "",
+      "fallbackRate": 1
     }
   ]
 }
