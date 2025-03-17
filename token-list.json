@@ -43531,17 +43531,6 @@
       "fallbackRate": 0
     },
     {
-      "name": "LNBTC",
-      "address": "0x5714C5195676aE6F27a5E0373e42D9ecf6B764Aa",
-      "symbol": "LNBTC",
-      "decimals": 18,
-      "chainId": 11155111,
-      "logoURI": "https://cryptologos.cc/logos/bitcoinz-btcz-logo.svg?v=033",
-      "comment": "LNBTC",
-      "rateConfig": "coingecko:bitcoin",
-      "fallbackRate": 0
-    },
-    {
       "name": "LNBTC2",
       "address": "0xAd2f249dfFe5627C663589Ec6D77f7d0438D3DDf",
       "symbol": "LNBTC",
