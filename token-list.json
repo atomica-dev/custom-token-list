@@ -43782,6 +43782,17 @@
       "comment": "Stratex insured USD",
       "rateConfig": "",
       "fallbackRate": 1
+    },
+    {
+      "name": "valuit",
+      "address": "0x81426Dfb271830B426297d356672e890f0F0595F",
+      "symbol": "VAL",
+      "decimals": 180,
+      "chainId": 11155111,
+      "logoURI": "https://pbs.twimg.com/profile_images/1881569944762212352/PaOl43YK_400x400.jpg",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 1
     }
   ]
 }
