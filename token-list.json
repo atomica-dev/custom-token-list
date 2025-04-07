@@ -43793,6 +43793,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 1
+    },
+    {
+      "name": "Stratex BTC",
+      "address": "0x13139a8e8780D571214d686d66F4c4b5cA1aE0Fb",
+      "symbol": "StratBTC",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://cryptologos.cc/logos/bitcoin-sv-bsv-logo.svg?v=040",
+      "comment": "",
+      "rateConfig": "coingecko:bitcoin",
+      "fallbackRate": 0
     }
   ]
 }
