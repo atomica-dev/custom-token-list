@@ -43837,6 +43837,17 @@
       "comment": "",
       "rateConfig": "coingecko:wrapped-bitcoin",
       "fallbackRate": 0
+    },
+    {
+      "name": "iStratETH",
+      "address": "0xfDc4246227b2d23DA6572Ec3893c5EAA23C60816",
+      "symbol": "iStratETH",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "coingecko:wrapped-steth",
+      "fallbackRate": 0
     }
   ]
 }
