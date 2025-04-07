@@ -43844,7 +43844,7 @@
       "symbol": "iStratETH",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/453/standard/ethereum-classic-logo.png?1696501717",
       "comment": "",
       "rateConfig": "coingecko:wrapped-steth",
       "fallbackRate": 0
