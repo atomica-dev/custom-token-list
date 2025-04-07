@@ -43855,7 +43855,7 @@
       "symbol": "iStratPOL",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/32416/standard/TruMATIC_logo_250px_%281%29.png?1698114190",
       "comment": "",
       "rateConfig": "coingecko:lido-staked-matic",
       "fallbackRate": 0
