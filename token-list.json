@@ -43848,6 +43848,17 @@
       "comment": "",
       "rateConfig": "coingecko:wrapped-steth",
       "fallbackRate": 0
+    },
+    {
+      "name": "iStratPOL",
+      "address": "0xef7e168367d5bf3a335cfa439f0f89a17b8b6a31",
+      "symbol": "iStratPOL",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "coingecko:lido-staked-matic",
+      "fallbackRate": 0
     }
   ]
 }
