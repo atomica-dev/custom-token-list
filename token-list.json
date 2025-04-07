@@ -43804,6 +43804,17 @@
       "comment": "",
       "rateConfig": "coingecko:bitcoin",
       "fallbackRate": 0
+    },
+    {
+      "name": "Stratex Eth",
+      "address": "0x198b7fcdA4C2432605e190efff1444605450E80F",
+      "symbol": "StratEth",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://cryptologos.cc/logos/ethereum-pow-ethw-logo.svg?v=040",
+      "comment": "",
+      "rateConfig": "coingecko:ethereum",
+      "fallbackRate": 0
     }
   ]
 }
