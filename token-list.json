@@ -43826,6 +43826,17 @@
       "comment": "",
       "rateConfig": "coingecko:polygon",
       "fallbackRate": 0
+    },
+    {
+      "name": "iStratBTC",
+      "address": "0xc72c4f138fa54b950d550953720d271c09bb1f96",
+      "symbol": "iStratBTC",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "coingecko:wrapped-bitcoin",
+      "fallbackRate": 0
     }
   ]
 }
