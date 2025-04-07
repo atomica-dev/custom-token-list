@@ -43815,6 +43815,17 @@
       "comment": "",
       "rateConfig": "coingecko:ethereum",
       "fallbackRate": 0
+    },
+    {
+      "name": "Stratex POL",
+      "address": "0x95A4Ddd7e844b3Bf6fA94eE98eB0833829c4E1a1",
+      "symbol": "StratPOL",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://cryptologos.cc/logos/polygon-matic-logo.svg?v=040",
+      "comment": "",
+      "rateConfig": "coingecko:polygon",
+      "fallbackRate": 0
     }
   ]
 }
