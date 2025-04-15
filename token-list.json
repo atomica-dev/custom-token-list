@@ -43859,6 +43859,17 @@
       "comment": "",
       "rateConfig": "coingecko:lido-staked-matic",
       "fallbackRate": 0
+    },
+    {
+      "name": "Dextr",
+      "address": "0xE6790adA20f5E104068c487241d120AF5Ab20F36",
+      "symbol": "Dextr",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://s3.us-east-2.amazonaws.com/dev.reports.srm/Dextr/dextr_token_icon.png",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
