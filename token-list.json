@@ -43868,7 +43868,7 @@
       "chainId": 11155111,
       "logoURI": "https://s3.us-east-2.amazonaws.com/dev.reports.srm/Dextr/dextr_token_icon.png",
       "comment": "",
-      "rateConfig": "",
+      "rateConfig": "coingecko:dexter",
       "fallbackRate": 0
     }
   ]
