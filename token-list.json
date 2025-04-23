@@ -43870,6 +43870,17 @@
       "comment": "",
       "rateConfig": "coingecko:dexter",
       "fallbackRate": 0
+    },
+    {
+      "name": "Lofty-FL-32118",
+      "address": "0x4E223Feaaed29A1E94983424AB9105de61B5E1E2",
+      "symbol": "Lofty-FL-32118",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://static.vecteezy.com/system/resources/previews/013/222/676/non_2x/home-pay-logo-template-design-coin-and-real-estate-logo-combination-money-and-house-symbol-or-icon-vector.jpg",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 1
     }
   ]
 }
