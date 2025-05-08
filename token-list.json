@@ -43881,6 +43881,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 50
+    },
+    {
+      "name": "FAKE",
+      "address": "0x3342B8fe20028bB3E259b91E05B50a6feaFeCaEb",
+      "symbol": "FAKE",
+      "decimals": 9,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
