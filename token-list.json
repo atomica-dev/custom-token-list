@@ -43784,7 +43784,7 @@
       "fallbackRate": 1
     },
     {
-      "name": "Valuit",
+      "name": "Valuit OLD",
       "address": "0x81426Dfb271830B426297d356672e890f0F0595F",
       "symbol": "VAL",
       "decimals": 18,
