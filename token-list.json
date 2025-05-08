@@ -43914,6 +43914,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 1
+    },
+    {
+      "name": "Valuit RWA1",
+      "address": "0xb513d3cb04e285b78de86ca0dbc780e448ad394c",
+      "symbol": "RWA1",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 1
     }
   ]
 }
