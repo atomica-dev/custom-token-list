@@ -43903,6 +43903,17 @@
       "comment": "",
       "rateConfig": "",
       "fallbackRate": 0
+    },
+    {
+      "name": "Valuit",
+      "address": "0x5c9bd216111b4edfd4058e88f716fc841d9ba42f",
+      "symbol": "VAL",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://pbs.twimg.com/profile_images/1881569944762212352/PaOl43YK_400x400.jpg",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 1
     }
   ]
 }
