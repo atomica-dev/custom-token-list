@@ -43736,7 +43736,7 @@
       "chainId": 11155111,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/usdc2.svg",
       "comment": "",
-      "rateConfig": "",
+      "rateConfig": "coingecko:usd-coin",
       "fallbackRate": 1
     },
     {
