@@ -276,6 +276,34 @@
         "decimals": 18
       },
       "rpcUrls": ["https://rpc.ankr.com/somnia_testnet/6e3fd81558cf77b928b06b38e9409b4677b637118114e83364486294d5ff4811", "https://dream-rpc.somnia.network/"]
+    },
+    {
+      "chainId": 28882,
+      "name": "Boba Sepolia",
+      "fullName": "Boba Sepolia",
+      "explorerUrl": "https://testnet.bobascan.com/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/boba.png",
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": ["https://sepolia.boba.network", "https://gateway.tenderly.co/public/boba-sepolia", "wss://boba-sepolia.gateway.tenderly.co"]
+    },
+    {
+      "chainId": 288,
+      "name": "Boba ETH",
+      "fullName": "Boba ETH",
+      "explorerUrl": "https://bobascan.com/",
+      "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/boba.png",
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": ["https://mainnet.boba.network", "http://boba-ethereum.gateway.tenderly.co", "http://gateway.tenderly.co/public/boba-ethereum", "https://boba-eth.drpc.org"]
     }
   ],
 
