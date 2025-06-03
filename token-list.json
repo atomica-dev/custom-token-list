@@ -44755,7 +44755,7 @@
       "symbol": "StratUSD",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/usdc2.svg",
       "comment": "Stratex USD",
       "rateConfig": "coingecko:tether",
       "fallbackRate": 1
