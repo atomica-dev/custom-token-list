@@ -44799,7 +44799,7 @@
       "symbol": "StratETH",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "https://cryptologos.cc/logos/ethereum-classic-etc-logo.svg?v=040",
+      "logoURI": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628",
       "comment": "",
       "rateConfig": "coingecko:ethereum",
       "fallbackRate": 0
