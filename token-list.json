@@ -44788,7 +44788,7 @@
       "symbol": "StratBTC",
       "decimals": 18,
       "chainId": 11155111,
-      "logoURI": "https://cryptologos.cc/logos/bitcoin-sv-bsv-logo.svg?v=040",
+      "logoURI": "https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=040",
       "comment": "",
       "rateConfig": "coingecko:bitcoin",
       "fallbackRate": 0
