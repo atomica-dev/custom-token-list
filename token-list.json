@@ -40142,6 +40142,17 @@
       "fallbackRate": 1
     },
     {
+      "name": "USDT",
+      "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xc4651FF5878c32c1c927E1309Edd4D7076ec8Dbe.png",
+      "comment": "USDT",
+      "rateConfig": "coingecko:tether",
+      "fallbackRate": 1
+    },
+    {
       "chainId": 1101,
       "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
       "name": "USD Coin",
