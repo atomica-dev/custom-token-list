@@ -40153,6 +40153,17 @@
       "fallbackRate": 1
     },
     {
+      "name": "BOBA",
+      "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
+      "symbol": "BOBA",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://assets.coingecko.com/coins/images/20285/standard/Boba-200x200---white.png?1696519690",
+      "comment": "BOBA",
+      "rateConfig": "coingecko:boba-network",
+      "fallbackRate": 0
+    },
+    {
       "chainId": 1101,
       "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
       "name": "USD Coin",
