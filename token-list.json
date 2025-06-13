@@ -40131,6 +40131,17 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
     },
     {
+      "name": "USDC",
+      "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 288,
+      "logoURI": "",
+      "comment": "USDC",
+      "rateConfig": "",
+      "fallbackRate": 1
+    },
+    {
       "chainId": 1101,
       "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
       "name": "USD Coin",
