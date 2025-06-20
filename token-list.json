@@ -40131,6 +40131,17 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
     },
     {
+      "name": "QUICK",
+      "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+      "symbol": "QUICK",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/25393/standard/quickswap.png?1696524525",
+      "comment": "",
+      "rateConfig": "coingecko:quickswap",
+      "fallbackRate": 0
+    },
+    {
       "name": "USDC",
       "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
       "symbol": "USDC",
