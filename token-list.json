@@ -40150,7 +40150,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 137,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg",
       "comment": "",
       "rateConfig": "coingecko:usdc",
       "fallbackRate": 0
