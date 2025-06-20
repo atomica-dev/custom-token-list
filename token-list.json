@@ -40175,7 +40175,7 @@
       "symbol": "QUICK.r",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/25393/standard/quickswap.png?1696524525",
       "comment": "",
       "rateConfig": "coingecko:quickswap",
       "fallbackRate": 0
