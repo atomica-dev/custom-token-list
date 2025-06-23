@@ -40203,6 +40203,17 @@
       "fallbackRate": 0
     },
     {
+      "name": "XYZ",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "symbol": "XYZ",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "",
+      "comment": "native token???",
+      "rateConfig": "coingecko:pol-ex-matic",
+      "fallbackRate": 0
+    },
+    {
       "name": "USDC",
       "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
       "symbol": "USDC",
