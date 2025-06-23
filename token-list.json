@@ -40181,13 +40181,13 @@
       "fallbackRate": 0
     },
     {
-      "name": "USDC.r",
+      "name": "USDC.r.old",
       "address": "0x1492df25dba6F65eafc32Ca74a6749eE368fae3F",
-      "symbol": "USDC.r",
+      "symbol": "USDC.r.old",
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg",
-      "comment": "",
+      "comment": "old",
       "rateConfig": "coingecko:usdc",
       "fallbackRate": 0
     },
