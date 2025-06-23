@@ -125,7 +125,7 @@
       "chainId": 11155111,
       "name": "Sepolia",
       "fullName": "Ethereum Sepolia",
-      "logo": "https://sepolia.dev/wp-content/uploads/elementor/thumbs/the-dolphin-po0q7ezlhqqzvrfmzw0atih2l0vqelut73w4eh5qtc.png",
+      "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/ethereum-sepolia.png",
       "explorerUrl": "https://sepolia.etherscan.io/",
       "nftUrlTemplate": "${explorerUrl}nft/${contractAddress}/${tokenId}",
       "nativeCurrency": {
