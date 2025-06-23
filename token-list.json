@@ -40192,6 +40192,17 @@
       "fallbackRate": 0
     },
     {
+      "name": "USDC.r",
+      "address": "0x0E97AAbb84D7D5170bB6375aceBA053fcaF03738",
+      "symbol": "USDC.r",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "coingecko:usdc",
+      "fallbackRate": 0
+    },
+    {
       "name": "USDC",
       "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
       "symbol": "USDC",
