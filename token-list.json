@@ -40155,7 +40155,7 @@
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg",
       "comment": "",
-      "rateConfig": "coingecko:usdc",
+      "rateConfig": "coingecko:usd-coin",
       "fallbackRate": 0
     },
     {
