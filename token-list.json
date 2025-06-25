@@ -45018,6 +45018,17 @@
       "comment": "AAVE Sepolia DAI",
       "rateConfig": "coingecko:dai",
       "fallbackRate": 1
+    },
+    {
+      "name": "Flow",
+      "address": "0xb0e3CFE799dE19E73aceBd74b8d4588Ff3387089",
+      "symbol": "Flow",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/13446/standard/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png?1696513210",
+      "comment": "",
+      "rateConfig": "coingecko:flow",
+      "fallbackRate": 0
     }
   ]
 }
