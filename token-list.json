@@ -42771,6 +42771,17 @@
       "fallbackRate": ""
     },
     {
+      "name": "USD Coin",
+      "address": "0xe9cc37904875b459fa5d0fe37680d36f1ed55e38",
+      "symbol": "USDC_areans",
+      "decimals": 6,
+      "chainId": 50312,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
+      "comment": "areans demo USDC",
+      "rateConfig": "",
+      "fallbackRate": 1
+    },
+    {
       "chainId": 80002,
       "address": "0xBb2243A45b33cd789d012807bd9fadAe53D6a57a",
       "name": "USD Coin",
