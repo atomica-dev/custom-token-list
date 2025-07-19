@@ -45042,9 +45042,9 @@
       "fallbackRate": 0
     },
     {
-      "name": "Lynex",
+      "name": "Lynx",
       "address": "0xE94F037238D511Ee1AE0EFBe91045A984176b9c0",
-      "symbol": "Lynex",
+      "symbol": "Lynx",
       "decimals": 18,
       "chainId": 11155111,
       "logoURI": "https://assets.coingecko.com/coins/images/34874/standard/LogoCircular_200x200.png?1706462851",
