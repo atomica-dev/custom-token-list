@@ -40893,6 +40893,17 @@
       "fallbackRate": 0.04607
     },
     {
+      "name": "HAI-OFT",
+      "address": "0x7002987e5f63716273e77b51e12a578143c222aa",
+      "symbol": "HAI",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
+    },
+    {
       "chainId": 28882,
       "address": "0x42F4972636A3E4098e00DF2ddcC0b2D3a4597EA2",
       "name": "USD Coin",
