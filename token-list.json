@@ -40900,7 +40900,7 @@
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC9d46FA6CE6A51a93359b6159F495EF87Cf625F8.png",
       "comment": "HAI-OFT",
-      "rateConfig": "terminal-pool:8453:0x080164bcb48ab6418c1f7c5f48fc6471d2aa23e55f0675effea9df848ae5dd50",
+      "rateConfig": "coingecko:hacken",
       "fallbackRate": 0.0102
     },
     {
