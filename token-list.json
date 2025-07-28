@@ -40893,13 +40893,13 @@
       "fallbackRate": 0.04607
     },
     {
-      "name": "HAI-OFT",
+      "name": "HAI",
       "address": "0x7002987e5f63716273e77b51e12a578143c222aa",
       "symbol": "HAI",
       "decimals": 18,
       "chainId": 8453,
-      "logoURI": "",
-      "comment": "",
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC9d46FA6CE6A51a93359b6159F495EF87Cf625F8.png",
+      "comment": "HAI-OFT",
       "rateConfig": "",
       "fallbackRate": 0
     },
