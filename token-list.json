@@ -44382,13 +44382,13 @@
       "fallbackRate": 0
     },
     {
-      "name": "wHAI",
+      "name": "new_HAI",
       "address": "0xBa2c5036761442cdFAC6AbD58E8A31BDBC3E5791",
-      "symbol": "wHAI",
+      "symbol": "new_HAI",
       "decimals": 18,
       "chainId": 11155111,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0xC9d46FA6CE6A51a93359b6159F495EF87Cf625F8.png",
-      "comment": "Hacken wrapped HAI",
+      "comment": "new_HAI",
       "rateConfig": "coingecko:hackenai",
       "fallbackRate": 0
     },
