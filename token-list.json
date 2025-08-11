@@ -44116,13 +44116,15 @@
       "symbol": "USDT"
     },
     {
-      "address": "0x94a9D9AC8a22534E3FaCa9F4e7F2E2cf85d5E4C8",
-      "chainId": 11155111,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/usdc2.svg",
       "name": "USD Coin",
+      "address": "0x94a9D9AC8a22534E3FaCa9F4e7F2E2cf85d5E4C8",
       "symbol": "USDC2",
-      "comment": "Aave token"
+      "decimals": 6,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/usdc2.svg",
+      "comment": "Aave token",
+      "rateConfig": "",
+      "fallbackRate": 1
     },
     {
       "address": "0x687d2087E0624Cf53768b182Bc596D6BB6a67581",
