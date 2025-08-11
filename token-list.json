@@ -41750,6 +41750,17 @@
       "fallbackRate": 0
     },
     {
+      "name": "MXNB",
+      "address": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa",
+      "symbol": "MXNB",
+      "decimals": 6,
+      "chainId": 42161,
+      "logoURI": "https://assets.coingecko.com/coins/images/39136/standard/MNXB_Logo.png?1746088156",
+      "comment": "",
+      "rateConfig": "coingecko:mxnb",
+      "fallbackRate": 0
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x6FF4e0f0514cd120A320646D32eBf1fFbcFebe0a",
       "symbol": "WETH",
