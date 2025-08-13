@@ -40225,6 +40225,17 @@
       "fallbackRate": 0
     },
     {
+      "name": "MXNB",
+      "address": "0x438D30615EACCCF81934058065C53dE6704BA41E",
+      "symbol": "MXNB",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://assets.coingecko.com/coins/images/39136/standard/MNXB_Logo.png?1746088156",
+      "comment": "",
+      "rateConfig": "coingecko:mxnb",
+      "fallbackRate": 0
+    },
+    {
       "chainId": 1101,
       "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
       "name": "USD Coin",
