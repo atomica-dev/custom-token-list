@@ -40192,6 +40192,17 @@
       "fallbackRate": 0
     },
     {
+      "name": "dQUICK",
+      "address": "0x958d208cdf087843e9ad98d23823d32e17d723a1",
+      "symbol": "dQUICK",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/33890/standard/QuickSwap-Logo-Full-Color.png?1703163481",
+      "comment": "",
+      "rateConfig": "coingecko:dragon-s-quick",
+      "fallbackRate": 0
+    },
+    {
       "name": "USDC",
       "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
       "symbol": "USDC",
