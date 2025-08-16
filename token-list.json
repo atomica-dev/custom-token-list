@@ -40200,7 +40200,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33890/standard/QuickSwap-Logo-Full-Color.png?1703163481",
       "comment": "",
       "rateConfig": "coingecko:dragon-s-quick",
-      "fallbackRate": 0
+      "fallbackRate": 0.02995
     },
     {
       "name": "USDC",
