@@ -40249,7 +40249,7 @@
     {
       "name": "Atomica USDC",
       "address": "0x4AD59c4af68f4547e480ae06ceeDEd5b3b8892db",
-      "symbol": "USDC",
+      "symbol": "USDCa",
       "decimals": 6,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
