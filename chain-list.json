@@ -268,7 +268,7 @@
       "name": "Somnia Mainnet",
       "fullName": "Somnia Mainnet",
       "explorerUrl": "https://explorer.somnia.network/",
-      "nftUrlTemplate": "${explorerUrl}token/${contractAddress}",
+      "nftUrlTemplate": "${explorerUrl}token/${contractAddress}/instance/${tokenId}",
       "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/chain-icons/somnia.png",
       "nativeCurrency": {
         "name": "SOMI",
