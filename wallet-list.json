@@ -3,13 +3,13 @@
     "id": "metamask",
     "name": "Metamask",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/metamask.svg",
-    "supportedChains": [1, 5, 56, 137, 250, 592, 1101, 1442, 4002, 8453, 42161, 43113, 43114, 84532, 11155111]
+    "supportedChains": [1, 5, 56, 137, 250, 592, 1101, 1442, 4002, 5031, 8453, 42161, 43113, 43114, 84532, 11155111]
   },
   {
     "id": "trustWallet",
     "name": "Trust Wallet",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/trust-wallet.svg",
-    "supportedChains": [1, 5, 56, 137, 250, 592, 1101, 1442, 4002, 8453, 42161, 43113, 43114, 11155111]
+    "supportedChains": [1, 5, 56, 137, 250, 592, 1101, 1442, 4002, 5031, 8453, 42161, 43113, 43114, 11155111]
   },
   {
     "id": "rabby",
@@ -21,7 +21,7 @@
     "id": "brave",
     "name": "Brave wallet",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/brave.svg",
-    "supportedChains": [1, 5, 56, 137, 250, 592, 1101, 1442, 4002, 8453, 42161, 43113, 43114, 84532, 11155111]
+    "supportedChains": [1, 5, 56, 137, 250, 592, 1101, 1442, 4002, 5031, 8453, 42161, 43113, 43114, 84532, 11155111]
   },
   {
     "id": "opera",
@@ -33,7 +33,7 @@
     "id": "walletConnect",
     "name": "Wallet Connect",
     "logo": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/wallet-icons/wallet-connect.svg",
-    "supportedChains": [1, 5, 56, 137, 250, 1101, 1442, 4002, 8453, 42161, 43113, 43114, 84532, 11155111]
+    "supportedChains": [1, 5, 56, 137, 250, 1101, 1442, 4002, 5031, 8453, 42161, 43113, 43114, 84532, 11155111]
   },
   {
     "id": "coinbaseWallet",
