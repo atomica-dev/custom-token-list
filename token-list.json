@@ -40926,6 +40926,17 @@
       "fallbackRate": 0
     },
     {
+      "name": "USDT",
+      "address": "0x67B302E35Aef5EEE8c32D934F5856869EF428330",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 5031,
+      "logoURI": "https://assets.coingecko.com/coins/images/69034/standard/usdt.jpg?1757320116",
+      "comment": "Stargate bridged USDT",
+      "rateConfig": "coingecko:stargate-bridged-usdt-somnia",
+      "fallbackRate": 0
+    },
+    {
       "name": "USD Coin",
       "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "symbol": "USDC",
