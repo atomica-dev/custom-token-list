@@ -40922,7 +40922,7 @@
       "chainId": 5031,
       "logoURI": "https://assets.coingecko.com/coins/images/69316/standard/usdc.jpg?1758186473",
       "comment": "Bridged USDC (Stargate) (USDC.e)",
-      "rateConfig": "terminal-pool:5031:0xe5467be8b8db6b074904134e8c1a581f5565e2c3",
+      "rateConfig": "coingecko:stargate-bridged-usdc",
       "fallbackRate": 0
     },
     {
