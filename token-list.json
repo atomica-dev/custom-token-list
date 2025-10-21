@@ -40904,6 +40904,17 @@
       "symbol": "BUSD"
     },
     {
+      "name": "wSOMI",
+      "address": "0x046EDe9564A72571df6F5e44d0405360c0f4dCab",
+      "symbol": "wSOMI",
+      "decimals": 18,
+      "chainId": 5031,
+      "logoURI": "https://assets.coingecko.com/coins/images/69031/standard/somi.png?1757319530",
+      "comment": "Wrapped SOMI",
+      "rateConfig": "coingecko:wrapped-somi",
+      "fallbackRate": 0
+    },
+    {
       "name": "USD Coin",
       "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "symbol": "USDC",
