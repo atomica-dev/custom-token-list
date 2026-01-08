@@ -40915,6 +40915,17 @@
       "fallbackRate": 0.9924
     },
     {
+      "name": "USDT",
+      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 5000,
+      "logoURI": "",
+      "comment": "USDT",
+      "rateConfig": "",
+      "fallbackRate": 0
+    },
+    {
       "name": "wSOMI",
       "address": "0x046EDe9564A72571df6F5e44d0405360c0f4dCab",
       "symbol": "wSOMI",
