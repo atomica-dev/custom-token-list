@@ -40904,6 +40904,17 @@
       "symbol": "BUSD"
     },
     {
+      "name": "WMNT",
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "symbol": "WMNT",
+      "decimals": 18,
+      "chainId": 5000,
+      "logoURI": "",
+      "comment": "WMNT",
+      "rateConfig": "coingecko:wrapped-mantle",
+      "fallbackRate": 0.9924
+    },
+    {
       "name": "wSOMI",
       "address": "0x046EDe9564A72571df6F5e44d0405360c0f4dCab",
       "symbol": "wSOMI",
