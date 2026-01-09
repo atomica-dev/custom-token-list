@@ -40920,10 +40920,10 @@
       "symbol": "USDT0",
       "decimals": 6,
       "chainId": 5000,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/standard/usdt0.jpg?1737086183",
       "comment": "USDT0",
-      "rateConfig": "",
-      "fallbackRate": 0
+      "rateConfig": "coingecko:usdt0",
+      "fallbackRate": 1
     },
     {
       "name": "wSOMI",
