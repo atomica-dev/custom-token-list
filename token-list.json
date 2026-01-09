@@ -40909,7 +40909,7 @@
       "symbol": "WMNT",
       "decimals": 18,
       "chainId": 5000,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/30983/standard/mantle.jpeg?1696529822",
       "comment": "WMNT",
       "rateConfig": "coingecko:wrapped-mantle",
       "fallbackRate": 0.9924
