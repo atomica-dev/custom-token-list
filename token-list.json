@@ -40915,17 +40915,6 @@
       "fallbackRate": 0.9924
     },
     {
-      "name": "USDT",
-      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 5000,
-      "logoURI": "",
-      "comment": "USDT",
-      "rateConfig": "",
-      "fallbackRate": 0
-    },
-    {
       "name": "USDT0",
       "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
       "symbol": "USDT0",
