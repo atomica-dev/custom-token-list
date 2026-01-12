@@ -40926,6 +40926,17 @@
       "fallbackRate": 1
     },
     {
+      "name": "Mantle Lending pool token 1",
+      "address": "0xC679775BACC86606633aE30E32385985F769e396",
+      "symbol": "MLPT1",
+      "decimals": 18,
+      "chainId": 5000,
+      "logoURI": "",
+      "comment": "Mantle Lending pool token 1",
+      "rateConfig": "",
+      "fallbackRate": 0
+    },
+    {
       "name": "wSOMI",
       "address": "0x046EDe9564A72571df6F5e44d0405360c0f4dCab",
       "symbol": "wSOMI",
