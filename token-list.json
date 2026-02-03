@@ -40214,9 +40214,9 @@
       "fallbackRate": 1
     },
     {
-      "name": "USDC.t",
+      "name": "Test USDC",
       "address": "0xB0779980E2b368bba2851592ad5eb7e50D3DEBCE",
-      "symbol": "Test USDC",
+      "symbol": "USDC.t",
       "decimals": 18,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/0x83885F66dE9c12dC6D9BFB61AE6CD636660aB87A.png",
