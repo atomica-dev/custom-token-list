@@ -45210,6 +45210,17 @@
       "comment": "",
       "rateConfig": "coingecko:lynex",
       "fallbackRate": 0
+    },
+    {
+      "name": "Paypal.USD",
+      "address": "0xC33a112e9fe7ed87Ce75B6b77A7FB6023aD1C0fD",
+      "symbol": "PYUSD",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 0
     }
   ]
 }
