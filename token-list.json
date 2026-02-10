@@ -45219,8 +45219,8 @@
       "chainId": 11155111,
       "logoURI": "",
       "comment": "",
-      "rateConfig": "coingecko:usdc",
-      "fallbackRate": 1
+      "rateConfig": "",
+      "fallbackRate": 0.99
     }
   ]
 }
