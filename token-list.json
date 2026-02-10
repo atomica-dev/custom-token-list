@@ -45219,7 +45219,7 @@
       "chainId": 11155111,
       "logoURI": "",
       "comment": "",
-      "rateConfig": "",
+      "rateConfig": "coingecko:usdc",
       "fallbackRate": 1
     }
   ]
