@@ -40213,6 +40213,17 @@
       "rateConfig": "coingecko:usdc",
       "fallbackRate": 1
     },
+     {
+      "name": "Lucid USDC",
+      "address": "0x71879254030c385c0047b83968da5436f82cd690",
+      "symbol": "LUSDC",
+      "decimals": 6,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/288-0x71879254030c385c0047b83968da5436f82cd690.png",
+      "comment": "LUSDC",
+      "rateConfig": "coingecko:lucid-usdc",
+      "fallbackRate": 1
+    },
     {
       "name": "Test USDC",
       "address": "0xB0779980E2b368bba2851592ad5eb7e50D3DEBCE",
