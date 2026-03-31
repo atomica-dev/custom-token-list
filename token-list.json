@@ -40280,6 +40280,17 @@
       "fallbackRate": 1
     },
     {
+      "name": "Mock Token1",
+      "address": "0x2939D022a9af83f52a004347c3E4D517908B8455",
+      "symbol": "MTK1",
+      "decimals": 4,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/atomica-dev/custom-token-list/master/icons/no-token-logo.png",
+      "comment": "",
+      "rateConfig": "",
+      "fallbackRate": 3
+    },
+    {
       "chainId": 1101,
       "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
       "name": "USD Coin",
