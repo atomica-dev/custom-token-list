@@ -40992,6 +40992,17 @@
       "fallbackRate": 0
     },
     {
+      "name": "USD Somnia",
+      "address": "0x00000022da000002656c64d9ea6011ea952d008a",
+      "symbol": "USDso",
+      "decimals": 18,
+      "chainId": 5031,
+      "logoURI": "",
+      "comment": "USD Somnia (USDso)",
+      "rateConfig": "coingecko:usd-somnia",
+      "fallbackRate": 1
+    },
+    {
       "name": "USDT",
       "address": "0x67B302E35Aef5EEE8c32D934F5856869EF428330",
       "symbol": "USDT",
