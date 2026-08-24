@@ -44306,6 +44306,17 @@
       "fallbackRate": 1
     },
     {
+      "name": "USD Coin",
+      "address": "0x1c7d4b196cb0c7b01d743fbc6116a902379c7238",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 11155111,
+      "logoURI": "",
+      "comment": "Circle Sepolia USDC",
+      "rateConfig": "",
+      "fallbackRate": 1
+    },
+    {
       "address": "0x687d2087E0624Cf53768b182Bc596D6BB6a67581",
       "chainId": 11155111,
       "decimals": 18,
