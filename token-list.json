@@ -40981,15 +40981,23 @@
       "fallbackRate": 0
     },
     {
-      "name": "USDC.e",
-      "address": "0x28BEc7E30E6faee657a03e19Bf1128AaD7632A00",
-      "symbol": "USDC.e",
-      "decimals": 6,
+      "name": "USD Somnia",
+      "address": "0x00000022da000002656c64d9ea6011ea952d008a",
+      "symbol": "USDso",
+      "decimals": 18,
       "chainId": 5031,
-      "logoURI": "https://assets.coingecko.com/coins/images/69316/standard/usdc.jpg?1758186473",
-      "comment": "Bridged USDC (Stargate) (USDC.e)",
-      "rateConfig": "coingecko:stargate-bridged-usdc",
-      "fallbackRate": 0
+      "logoURI": "",
+      "comment": "USD Somnia (USDso)",
+      "rateConfig": "coingecko:usd-somnia",
+      "fallbackRate": 1
+    },
+    {
+      "chainId": 5031,
+      "address": "0x00000022da000002656c64d9ea6011ea952d008a",
+      "symbol": "USDso",
+      "name": "USD Somnia",
+      "decimals": 18,
+      "fallbackRate": 1
     },
     {
       "name": "USDT",
